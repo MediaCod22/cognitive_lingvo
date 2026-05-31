@@ -1,0 +1,104 @@
+# Схема когнитивно-лингвистической разметки
+
+corpus_name: "Russian Media-Cultural World Model Corpus"
+version: "1.0-pilot"
+date: "2026-05-31"
+language: "ru"
+
+fields:
+  - name: "url"
+    type: "string"
+    description: "URL-ссылка на исходный медиаматериал"
+    required: true
+
+  - name: "title"
+    type: "string"
+    description: "Заголовок медиаматериала"
+    required: true
+    language: "ru"
+
+  - name: "corpus_section"
+    type: "categorical"
+    description: "Раздел корпуса"
+    required: true
+    allowed_values:
+      - "Новости"
+      - "Аналитика"
+      - "Интервью"
+      - "Колонки / публицистика"
+      - "Культурная журналистика"
+      - "Научно-популярные тексты"
+      - "Региональные медиа"
+      - "Литературный канон"
+
+  - name: "text_type"
+    type: "string"
+    description: "Жанрово-тематическая категория материала"
+    required: true
+
+  - name: "concept"
+    type: "string"
+    description: "Ключевой культурный концепт (капитализированный)"
+    required: true
+    annotation_method: "cognitive_linguistic"
+    examples:
+      - "РАЗВИТИЕ"
+      - "БЕЗОПАСНОСТЬ"
+      - "ПАМЯТЬ"
+      - "СУВЕРЕНИТЕТ"
+
+  - name: "frame"
+    type: "string"
+    description: "Фрейм — схема интерпретации ситуации"
+    required: true
+    annotation_method: "frame_analysis"
+    examples:
+      - "технологический прорыв"
+      - "угроза / контроль"
+      - "культурное наследие"
+
+  - name: "metaphor"
+    type: "string"
+    description: "Концептуальная метафора"
+    required: true
+    annotation_method: "conceptual_metaphor_analysis"
+    examples:
+      - "технология как двигатель"
+      - "ИИ как оружие"
+      - "культура как корень"
+
+  - name: "subject_role"
+    type: "string"
+    description: "Субъектная роль (агенс / пациент)"
+    required: true
+    annotation_method: "discourse_analysis"
+    examples:
+      - "государство / эксперт"
+      - "хакер / государство"
+      - "писатель / читатель"
+
+  - name: "value_opposition"
+    type: "string"
+    description: "Ценностная оппозиция (положительный / отрицательный полюс)"
+    required: true
+    annotation_method: "axiological_analysis"
+    examples:
+      - "прогресс / отставание"
+      - "контроль / хаос"
+      - "свобода / цензура"
+
+  - name: "action_model"
+    type: "string"
+    description: "Модель действия — предлагаемый сценарий поведения"
+    required: true
+    annotation_method: "pragmatic_analysis"
+    examples:
+      - "модернизация"
+      - "защита"
+      - "регулирование"
+      - "осмысление"
+
+metadata:
+  total_records: 200
+  period: "2023-2026"
+  human_verified_percentage: 20
