@@ -1,0 +1,85 @@
+{
+  "text_id": "cultj_002",
+  "title": "Главные выставки 2023 года",
+  "author": null,
+  "source": "Культура.РФ",
+  "source_type": "cultural_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.culture.ru/materials/257560/glavnye-vystavki-2023-goda",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "cultural_journalism",
+  "genre": "review",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "economy_and_labor",
+    "culture_and_memory"
+  ],
+  "selection_reason": "Материал из раздела «Культурная журналистика», содержит концепт «КУЛЬТУРНОЕ НАСЛЕДИЕ», фрейм «музейная жизнь» и модель действия «сохранение», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "КУЛЬТУРНОЕ НАСЛЕДИЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "музейная жизнь",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "музей как хранитель",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "сохранение / забвение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "музей / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "сохранение",
+    "norm_model": "преемственность и сохранение наследия",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [
+      {
+        "value": "художественная выставка",
+        "rank": "secondary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [],
+    "world_model_dimension": [
+      "culture"
+    ],
+    "uncertainty_notes": null
+  }
+}

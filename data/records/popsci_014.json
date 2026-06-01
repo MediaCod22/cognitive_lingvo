@@ -1,0 +1,81 @@
+{
+  "text_id": "popsci_014",
+  "title": "Профессор СПбПУ дал прогноз о развитии «цифровой Арктики»",
+  "author": null,
+  "source": "РИА Новости",
+  "source_type": "agency",
+  "publication_date": null,
+  "year": null,
+  "url": "https://ria.ru/20260119/nauka-2068347427.html",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "popular_science",
+  "genre": "other",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "future_models"
+  ],
+  "selection_reason": "Материал из раздела «Научно-популярные тексты», содержит концепт «АРКТИКА», фрейм «цифровизация региона» и модель действия «развитие», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "АРКТИКА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "цифровизация региона",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "Арктика как фронт",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "освоение / отставание",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "учёный / регион",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "развитие",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology",
+      "future",
+      "knowledge"
+    ],
+    "uncertainty_notes": null
+  }
+}

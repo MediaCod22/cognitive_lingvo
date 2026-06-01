@@ -1,0 +1,78 @@
+{
+  "text_id": "news_030",
+  "title": "На Западе опасаются идеи Путина о платежной системе БРИКС",
+  "author": null,
+  "source": "РБК",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": 2024,
+  "url": "https://www.rbc.ru/politics/24/10/2024/671a3dad9a7947b37650487a",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "international_agenda"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «СУВЕРЕНИТЕТ», фрейм «финансовая независимость» и модель действия «создание альтернативы», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СУВЕРЕНИТЕТ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "финансовая независимость",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "платёжная система как инструмент",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "независимость / зависимость",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "государство / Запад",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "создание альтернативы",
+    "norm_model": "суверенитет и независимость",
+    "threat_model": "внешняя угроза и зависимость",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

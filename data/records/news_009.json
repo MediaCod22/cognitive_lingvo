@@ -1,0 +1,78 @@
+{
+  "text_id": "news_009",
+  "title": "Путин послал послание: современная, комфортная Россия",
+  "author": null,
+  "source": "Газета.ru",
+  "source_type": "federal_media",
+  "publication_date": null,
+  "year": 2024,
+  "url": "https://www.gazeta.ru/social/2024/03/01/18354896.shtml",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "state_and_society"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «БУДУЩЕЕ», фрейм «национальный проект» и модель действия «строительство», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "БУДУЩЕЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "национальный проект",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "страна как семья",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "развитие / упадок",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "президент / народ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "строительство",
+    "norm_model": "событие фиксирует актуальную модель действия",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

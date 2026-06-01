@@ -1,0 +1,80 @@
+{
+  "text_id": "analyt_015",
+  "title": "Как ИИ проникает в экономику",
+  "author": null,
+  "source": "Ведомости",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": 2025,
+  "url": "https://www.vedomosti.ru/analytics/krupnyy_plan/articles/2025/11/25/1157711-kak-iskusstvennii-intellekt-pronikaet-v-ekonomiku",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "analytics",
+  "genre": "analysis",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "economy_and_labor",
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Аналитика», содержит концепт «ПРОНИКНОВЕНИЕ», фрейм «экономическая интеграция ИИ» и модель действия «интеграция», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПРОНИКНОВЕНИЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "экономическая интеграция ИИ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "ИИ как вода",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "интеграция / сопротивление",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "бизнес / экономика",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "интеграция",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "economy",
+      "technology"
+    ],
+    "uncertainty_notes": null
+  }
+}

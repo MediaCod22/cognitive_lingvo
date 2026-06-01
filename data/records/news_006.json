@@ -1,0 +1,80 @@
+{
+  "text_id": "news_006",
+  "title": "Рынок ИИ в России кратно вырастет в 2025 году",
+  "author": null,
+  "source": "Известия",
+  "source_type": "federal_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://iz.ru/1814425/anton-belyi/mashinnyj-cvet-rynok-ii-v-rossii-kratno-vyrastet-v-2025-godu",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "economy_and_labor",
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «РОСТ», фрейм «рыночная экспансия» и модель действия «инвестиция», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "РОСТ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "рыночная экспансия",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "рынок как организм",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "рост / стагнация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "бизнес / инвестор",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "инвестиция",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "economy",
+      "technology"
+    ],
+    "uncertainty_notes": null
+  }
+}

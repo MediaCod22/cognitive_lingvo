@@ -1,0 +1,89 @@
+{
+  "text_id": "cultj_013",
+  "title": "Маяк: фестиваль актуального российского кино",
+  "author": null,
+  "source": "РБК Стиль",
+  "source_type": "cultural_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://style.rbc.ru/impressions/6708fbd19a7947a40b5b3a6f",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "cultural_journalism",
+  "genre": "other",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "culture_and_memory"
+  ],
+  "selection_reason": "Материал из раздела «Культурная журналистика», содержит концепт «СОВРЕМЕННОСТЬ», фрейм «новое российское кино» и модель действия «популяризация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СОВРЕМЕННОСТЬ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "новое российское кино",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "фестиваль как маяк",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "новое / старое",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "режиссёр / зритель",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "популяризация",
+    "norm_model": "культурная преемственность и осмысление",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [
+      {
+        "value": "кинематограф",
+        "rank": "secondary",
+        "evidence": null
+      },
+      {
+        "value": "культурный фестиваль",
+        "rank": "secondary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [],
+    "world_model_dimension": [
+      "culture"
+    ],
+    "uncertainty_notes": null
+  }
+}

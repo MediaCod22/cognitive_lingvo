@@ -1,0 +1,79 @@
+{
+  "text_id": "intvw_018",
+  "title": "Резин: космическая программа России на 2026 год",
+  "author": null,
+  "source": "ТАСС",
+  "source_type": "agency",
+  "publication_date": null,
+  "year": null,
+  "url": "https://tass.ru/interviews/27350123",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "interview",
+  "genre": "other",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "education_and_science"
+  ],
+  "selection_reason": "Материал из раздела «Интервью», содержит концепт «КОСМОС», фрейм «космическая программа» и модель действия «развитие», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "КОСМОС",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "космическая программа",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "космос как горизонт",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "развитие / ограничения",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "руководитель / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "развитие",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology"
+    ],
+    "uncertainty_notes": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/schemas/annotation_schema.json",
+  "title": "CognitiveAnnotation",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "concepts",
+    "frames",
+    "metaphors",
+    "value_oppositions",
+    "subject_roles",
+    "action_model",
+    "norm_model",
+    "threat_model",
+    "temporality",
+    "cultural_references",
+    "literary_references",
+    "world_model_dimension",
+    "uncertainty_notes"
+  ],
+  "properties": {
+    "concepts": { "$ref": "#/$defs/limitedTaggedList" },
+    "frames": { "$ref": "#/$defs/limitedTaggedList" },
+    "metaphors": { "$ref": "#/$defs/limitedTaggedList" },
+    "value_oppositions": { "$ref": "#/$defs/limitedTaggedList" },
+    "subject_roles": { "$ref": "#/$defs/limitedTaggedList" },
+    "action_model": { "type": ["string", "null"], "maxLength": 300 },
+    "norm_model": { "type": ["string", "null"], "maxLength": 300 },
+    "threat_model": { "type": ["string", "null"], "maxLength": 300 },
+    "temporality": {
+      "type": "array",
+      "maxItems": 7,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "enum": [
+          "past_reference",
+          "present_event",
+          "future_projection",
+          "cyclic_time",
+          "crisis_time",
+          "continuity",
+          "rupture"
+        ]
+      }
+    },
+    "cultural_references": { "$ref": "#/$defs/limitedTaggedList" },
+    "literary_references": { "$ref": "#/$defs/limitedTaggedList" },
+    "world_model_dimension": {
+      "type": "array",
+      "maxItems": 7,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "enum": [
+          "ontology",
+          "anthropology",
+          "society",
+          "state",
+          "economy",
+          "technology",
+          "knowledge",
+          "culture",
+          "memory",
+          "family",
+          "security",
+          "future",
+          "region",
+          "ethics"
+        ]
+      }
+    },
+    "uncertainty_notes": { "type": ["string", "null"], "maxLength": 1000 }
+  },
+  "$defs": {
+    "limitedTaggedList": {
+      "type": "array",
+      "maxItems": 7,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["value", "rank", "evidence"],
+        "properties": {
+          "value": { "type": "string", "minLength": 1, "maxLength": 120 },
+          "rank": { "type": "string", "enum": ["primary", "secondary", "additional"] },
+          "evidence": { "type": ["string", "null"], "maxLength": 300 }
+        }
+      }
+    }
+  }
+}

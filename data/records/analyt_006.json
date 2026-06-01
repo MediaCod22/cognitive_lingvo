@@ -1,0 +1,80 @@
+{
+  "text_id": "analyt_006",
+  "title": "6 трендов аналитики данных, которые изменят бизнес",
+  "author": null,
+  "source": "РБК Тренды",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://trends.rbc.ru/trends/industry/67d7eacc9a7947482963ece1",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "analytics",
+  "genre": "analysis",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "economy_and_labor",
+    "technologies",
+    "future_models"
+  ],
+  "selection_reason": "Материал из раздела «Аналитика», содержит концепт «ТРЕНД», фрейм «рыночная трансформация» и модель действия «адаптация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ТРЕНД",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "рыночная трансформация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "тренд как волна",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "адаптация / отставание",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "аналитик / бизнес",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "адаптация",
+    "norm_model": "рациональное объяснение и прогноз",
+    "threat_model": null,
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "economy"
+    ],
+    "uncertainty_notes": null
+  }
+}

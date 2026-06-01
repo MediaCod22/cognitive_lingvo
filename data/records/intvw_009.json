@@ -1,0 +1,78 @@
+{
+  "text_id": "intvw_009",
+  "title": "Мы ищем жизнь во Вселенной, чтобы понять, откуда она на Земле",
+  "author": null,
+  "source": "ТАСС",
+  "source_type": "agency",
+  "publication_date": null,
+  "year": null,
+  "url": "https://tass.ru/interviews/27559385",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "interview",
+  "genre": "interview",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "state_and_society"
+  ],
+  "selection_reason": "Материал из раздела «Интервью», содержит концепт «ПОИСК», фрейм «научное познание» и модель действия «исследование», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПОИСК",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "научное познание",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "Вселенная как загадка",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "знание / неведение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "учёный / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "исследование",
+    "norm_model": "экспертная позиция как ориентир",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

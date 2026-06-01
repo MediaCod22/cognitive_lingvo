@@ -1,0 +1,81 @@
+{
+  "text_id": "popsci_007",
+  "title": "Искусственный интеллект в 2025 году: что происходит на самом деле",
+  "author": null,
+  "source": "Хабр",
+  "source_type": "science_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://habr.com/ru/articles/902602",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "popular_science",
+  "genre": "other",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "culture_and_memory"
+  ],
+  "selection_reason": "Материал из раздела «Научно-популярные тексты», содержит концепт «РЕАЛЬНОСТЬ», фрейм «тренды ИИ» и модель действия «анализ», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "РЕАЛЬНОСТЬ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "тренды ИИ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "ИИ как волна",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "прогресс / хайп",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "аналитик / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "анализ",
+    "norm_model": "научное обоснование и рациональность",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology",
+      "culture",
+      "knowledge"
+    ],
+    "uncertainty_notes": null
+  }
+}

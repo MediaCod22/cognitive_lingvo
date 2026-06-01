@@ -1,0 +1,78 @@
+{
+  "text_id": "intvw_014",
+  "title": "Выбор, который устроил всех: интервью с банкиром",
+  "author": null,
+  "source": "Коммерсантъ",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.kommersant.ru/doc/8571874",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "interview",
+  "genre": "interview",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "state_and_society"
+  ],
+  "selection_reason": "Материал из раздела «Интервью», содержит концепт «ВЫБОР», фрейм «финансовая стратегия» и модель действия «стратегия», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ВЫБОР",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "финансовая стратегия",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "банк как крепость",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "стабильность / риск",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "банкир / рынок",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "стратегия",
+    "norm_model": "экспертная позиция как ориентир",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "text_id": "news_016",
+  "title": "Ведущие вузы РФ начнут переход на новую систему образования",
+  "author": null,
+  "source": "ТАСС",
+  "source_type": "agency",
+  "publication_date": null,
+  "year": null,
+  "url": "https://tass.ru/obschestvo/26279597",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "education_and_science"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «РЕФОРМА», фрейм «образовательная трансформация» и модель действия «трансформация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "РЕФОРМА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "образовательная трансформация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "реформа как переход",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "новое / старое",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "министерство / вуз",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "трансформация",
+    "norm_model": "событие фиксирует актуальную модель действия",
+    "threat_model": "деградация образования",
+    "temporality": [
+      "present_event",
+      "rupture"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

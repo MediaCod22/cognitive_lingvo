@@ -1,0 +1,78 @@
+{
+  "text_id": "popsci_010",
+  "title": "Главные новости науки в 2024 году",
+  "author": null,
+  "source": "Неизвестный источник",
+  "source_type": "other",
+  "publication_date": null,
+  "year": null,
+  "url": "https://elementy.ru/video/927/Evgeniy_Plisov_glavnye_novosti_nauki_v_2024_godu",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "popular_science",
+  "genre": "other",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "education_and_science"
+  ],
+  "selection_reason": "Материал из раздела «Научно-популярные тексты», содержит концепт «ИТОГ», фрейм «научный год» и модель действия «обзор», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ИТОГ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "научный год",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "наука как путешествие",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "прогресс / тупик",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "учёный / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "обзор",
+    "norm_model": "научное обоснование и рациональность",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "knowledge"
+    ],
+    "uncertainty_notes": null
+  }
+}

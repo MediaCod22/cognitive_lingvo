@@ -1,0 +1,79 @@
+{
+  "text_id": "intvw_011",
+  "title": "Моргулов: шаги недругов не остановят сотрудничество РФ и Китая",
+  "author": null,
+  "source": "РИА Новости",
+  "source_type": "agency",
+  "publication_date": null,
+  "year": null,
+  "url": "https://ria.ru/20241227/morgulov-1991638537.html",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "interview",
+  "genre": "interview",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "economy_and_labor",
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Интервью», содержит концепт «СОТРУДНИЧЕСТВО», фрейм «международное партнёрство» и модель действия «укрепление», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СОТРУДНИЧЕСТВО",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "международное партнёрство",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "партнёрство как мост",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "союз / изоляция",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "посол / страна",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "укрепление",
+    "norm_model": "экспертная позиция как ориентир",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "text_id": "opin_012",
+  "title": "Как изменились партийные симпатии избирателей",
+  "author": null,
+  "source": "Коммерсантъ",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.kommersant.ru/doc/7429862",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "opinion",
+  "genre": "column",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Колонки / публицистика», содержит концепт «ВЫБОР», фрейм «электоральная динамика» и модель действия «наблюдение», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ВЫБОР",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "электоральная динамика",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "избиратель как маятник",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "перемены / стабильность",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "избиратель / партия",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "наблюдение",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology"
+    ],
+    "uncertainty_notes": null
+  }
+}

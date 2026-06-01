@@ -1,0 +1,78 @@
+{
+  "text_id": "news_004",
+  "title": "Путин назвал конкурентные преимущества России в развитии ИИ",
+  "author": null,
+  "source": "Коммерсантъ",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.kommersant.ru/doc/8692923",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «СИЛА», фрейм «национальное лидерство» и модель действия «стратегическое развитие», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СИЛА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "национальное лидерство",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "государство как механизм",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "лидерство / зависимость",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "президент / страна",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "стратегическое развитие",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology"
+    ],
+    "uncertainty_notes": null
+  }
+}

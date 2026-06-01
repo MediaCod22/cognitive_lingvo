@@ -1,0 +1,78 @@
+{
+  "text_id": "news_018",
+  "title": "Экономика РФ в 2025 году выросла на 1%",
+  "author": null,
+  "source": "РБК",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": 2026,
+  "url": "https://www.rbc.ru/economics/06/02/2026/6985fe749a7947b0e2a18e3e",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "economy_and_labor"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «РОСТ», фрейм «экономическая динамика» и модель действия «стимулирование», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "РОСТ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "экономическая динамика",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "экономика как организм",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "рост / спад",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "государство / Росстат",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "стимулирование",
+    "norm_model": "развитие и модернизация",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "economy"
+    ],
+    "uncertainty_notes": null
+  }
+}

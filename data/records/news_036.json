@@ -1,0 +1,79 @@
+{
+  "text_id": "news_036",
+  "title": "Лавров подвел итоги работы МИД в 2025 году",
+  "author": null,
+  "source": "ТАСС",
+  "source_type": "agency",
+  "publication_date": null,
+  "year": null,
+  "url": "https://tass.ru/politika/26191397",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "state_and_society",
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «СУВЕРЕНИТЕТ», фрейм «дипломатическая деятельность» и модель действия «защита интересов», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СУВЕРЕНИТЕТ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "дипломатическая деятельность",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "дипломатия как щит",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "суверенитет / подчинение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "МИД / международное сообщество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "защита интересов",
+    "norm_model": "суверенитет и независимость",
+    "threat_model": "внешняя угроза и зависимость",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "state"
+    ],
+    "uncertainty_notes": null
+  }
+}

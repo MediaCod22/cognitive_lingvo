@@ -1,0 +1,82 @@
+{
+  "text_id": "news_011",
+  "title": "Концепция миграционной политики коснется образования и русского языка",
+  "author": null,
+  "source": "РИА Новости",
+  "source_type": "agency",
+  "publication_date": null,
+  "year": null,
+  "url": "https://ria.ru/20251015/rossiya-2048504926.html",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "state_and_society",
+    "technologies",
+    "education_and_science",
+    "family_and_demography"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «ИДЕНТИЧНОСТЬ», фрейм «культурная интеграция» и модель действия «ассимиляция», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ИДЕНТИЧНОСТЬ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "культурная интеграция",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "миграция как поток",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "интеграция / изоляция",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "государство / мигрант",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "ассимиляция",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "state",
+      "technology"
+    ],
+    "uncertainty_notes": null
+  }
+}

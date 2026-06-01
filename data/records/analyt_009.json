@@ -1,0 +1,78 @@
+{
+  "text_id": "analyt_009",
+  "title": "Большие данные пошли в рост",
+  "author": null,
+  "source": "Коммерсантъ",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.kommersant.ru/doc/8335113",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "analytics",
+  "genre": "analysis",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Аналитика», содержит концепт «ДАННЫЕ», фрейм «рыночный рост» и модель действия «монетизация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ДАННЫЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "рыночный рост",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "данные как валюта",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "рост / стагнация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "рынок / государство",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "монетизация",
+    "norm_model": "рациональное объяснение и прогноз",
+    "threat_model": null,
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

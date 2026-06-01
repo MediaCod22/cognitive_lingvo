@@ -1,0 +1,92 @@
+{
+  "text_id": "canon_013",
+  "title": "Молодые критики о литературе",
+  "author": null,
+  "source": "Неизвестный источник",
+  "source_type": "other",
+  "publication_date": null,
+  "year": null,
+  "url": "https://znamlit.ru/publication.php?id=8901",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "canonical_layer",
+  "genre": "other",
+  "speed_layer": "deep",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "culture_and_memory",
+    "literary_canon"
+  ],
+  "selection_reason": "Материал из раздела «Литературный канон», содержит концепт «НОВОЕ», фрейм «поколенческий взгляд» и модель действия «дискуссия», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "НОВОЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "поколенческий взгляд",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "молодость как вызов",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "новизна / традиция",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "критик / литература",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "дискуссия",
+    "norm_model": "долг, ответственность и нравственный выбор",
+    "threat_model": null,
+    "temporality": [
+      "past_reference"
+    ],
+    "cultural_references": [
+      {
+        "value": "канонический текст в медийной репрезентации",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [
+      {
+        "value": "каноническое произведение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "world_model_dimension": [
+      "memory"
+    ],
+    "uncertainty_notes": null
+  }
+}

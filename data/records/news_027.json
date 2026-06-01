@@ -1,0 +1,79 @@
+{
+  "text_id": "news_027",
+  "title": "Число причастных к терроризму подростков выросло в 2,5 раза",
+  "author": null,
+  "source": "ТАСС",
+  "source_type": "agency",
+  "publication_date": null,
+  "year": null,
+  "url": "https://tass.ru/proisshestviya/27138967",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "health_and_security"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «УГРОЗА», фрейм «Идеологическая динамика молодёжи» и модель действия «профилактика», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "УГРОЗА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "Идеологическая динамика молодёжи",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "радикализм как вирус",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "безопасность / деструкция",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "правоохранители / молодёжь",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "профилактика",
+    "norm_model": "стабильность и порядок",
+    "threat_model": "радикализм и деструкция",
+    "temporality": [
+      "present_event",
+      "crisis_time"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "security"
+    ],
+    "uncertainty_notes": null
+  }
+}

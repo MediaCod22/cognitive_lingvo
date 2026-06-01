@@ -1,0 +1,80 @@
+{
+  "text_id": "popsci_019",
+  "title": "Вузы перейдут на новую систему образования с 2026 года",
+  "author": null,
+  "source": "Неизвестный источник",
+  "source_type": "other",
+  "publication_date": null,
+  "year": null,
+  "url": "https://mel.fm/novosti/4863591-rossyskiye-vuzy-pereydut-na-novuyu-sistemu-obrazovaniya",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "popular_science",
+  "genre": "other",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "education_and_science"
+  ],
+  "selection_reason": "Материал из раздела «Научно-популярные тексты», содержит концепт «РЕФОРМА», фрейм «образовательная трансформация» и модель действия «реализация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "РЕФОРМА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "образовательная трансформация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "образование как стройка",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "новое / старое",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "министерство / вуз",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "реализация",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology",
+      "knowledge"
+    ],
+    "uncertainty_notes": null
+  }
+}

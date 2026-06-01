@@ -1,0 +1,79 @@
+{
+  "text_id": "opin_003",
+  "title": "Куда хуже: о кризисах 2025",
+  "author": null,
+  "source": "Ведомости",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": 2025,
+  "url": "https://www.vedomosti.ru/opinion/columns/2025/12/15/1163160-kuda-huzhe",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "opinion",
+  "genre": "column",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "state_and_society"
+  ],
+  "selection_reason": "Материал из раздела «Колонки / публицистика», содержит концепт «КРИЗИС», фрейм «экономический спад» и модель действия «адаптация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "КРИЗИС",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "экономический спад",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "кризис как буря",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "осознание / отрицание",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "эксперт / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "адаптация",
+    "norm_model": "ценностная определённость и аргументация",
+    "threat_model": "экономическая стагнация",
+    "temporality": [
+      "crisis_time",
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

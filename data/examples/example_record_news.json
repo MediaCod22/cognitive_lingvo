@@ -1,0 +1,54 @@
+{
+  "text_id": "news_fed_2024_001",
+  "title": "Пример новостного материала о технологическом развитии",
+  "author": "Редакция",
+  "source": "Федеральное цифровое медиа",
+  "source_type": "federal_media",
+  "publication_date": "2024-05-20",
+  "year": 2024,
+  "url": "https://example.org/news/2024/05/20/example",
+  "access_date": "2026-01-15",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": "federal",
+  "audience_type": "general_public",
+  "topics": ["technologies", "future_models"],
+  "selection_reason": "Материал фиксирует событие о технологическом развитии и содержит акторов, фрейм модернизации и модель действия.",
+  "excerpt": "Короткий допустимый фрагмент или null.",
+  "summary": "Материал описывает событие в технологической сфере и связывает его с представлениями о будущем и развитии.",
+  "legal": {
+    "license_status": "metadata_and_excerpt",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные, короткий фрагмент и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "expert_reviewed",
+  "annotation": {
+    "concepts": [
+      {"value": "РАЗВИТИЕ", "rank": "primary", "evidence": "лексика движения вперед и роста"},
+      {"value": "БУДУЩЕЕ", "rank": "secondary", "evidence": "прогнозные формулы"}
+    ],
+    "frames": [
+      {"value": "модернизация", "rank": "primary", "evidence": "событие представлено как обновление"}
+    ],
+    "metaphors": [
+      {"value": "технология как двигатель", "rank": "secondary", "evidence": "языковые маркеры ускорения"}
+    ],
+    "value_oppositions": [
+      {"value": "прогресс / отставание", "rank": "primary", "evidence": "сопоставление развития и риска задержки"}
+    ],
+    "subject_roles": [
+      {"value": "институт", "rank": "primary", "evidence": "институт представлен как инициатор"},
+      {"value": "эксперт", "rank": "secondary", "evidence": "эксперт дает оценку"}
+    ],
+    "action_model": "модернизация и внедрение",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "риск отставания",
+    "temporality": ["present_event", "future_projection"],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": ["technology", "future", "society"],
+    "uncertainty_notes": null
+  }
+}

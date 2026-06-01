@@ -1,0 +1,82 @@
+{
+  "text_id": "news_039",
+  "title": "В РФ за семь лет число IT-преступлений выросло в 7,5 раза",
+  "author": null,
+  "source": "ТАСС",
+  "source_type": "agency",
+  "publication_date": null,
+  "year": null,
+  "url": "https://tass.ru/obschestvo/23128087",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "family_and_demography",
+    "health_and_security"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «УГРОЗА», фрейм «цифровые вызовы» и модель действия «борьба», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "УГРОЗА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "цифровые вызовы",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "интернет как тёмный лес",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "безопасность / уязвимость",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "правоохранители / преступник",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "борьба",
+    "norm_model": "событие фиксирует актуальную модель действия",
+    "threat_model": "киберугроза и цифровая атака",
+    "temporality": [
+      "present_event",
+      "crisis_time"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "security",
+      "family"
+    ],
+    "uncertainty_notes": null
+  }
+}

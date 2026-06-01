@@ -1,0 +1,86 @@
+{
+  "text_id": "cultj_021",
+  "title": "В Бразилии обсудят слово Толстого в современном мире",
+  "author": null,
+  "source": "Российская газета",
+  "source_type": "official_source",
+  "publication_date": null,
+  "year": 2025,
+  "url": "https://rg.ru/2025/03/21/v-brazilii-obsudiat-slovo-tolstogo-v-sovremennom-mire.html",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "cultural_journalism",
+  "genre": "news",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "culture_and_memory"
+  ],
+  "selection_reason": "Материал из раздела «Культурная журналистика», содержит концепт «СЛОВО», фрейм «международная рецепция классики» и модель действия «популяризация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СЛОВО",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "международная рецепция классики",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "Толстой как посол",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "мировое / локальное",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "форум / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "популяризация",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [
+      {
+        "value": "культурное событие",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology",
+      "culture"
+    ],
+    "uncertainty_notes": null
+  }
+}

@@ -1,0 +1,2 @@
+text_id,title,source,source_type,publication_date,year,url,access_date,segment,genre,speed_layer,region,topics,selection_reason,license_status,annotation_status
+news_fed_2024_001,Заголовок материала,Название источника,federal_media,2024-01-15,2024,https://example.org/material,2026-01-15,news,news,fast,federal,state_and_society,Материал фиксирует событие и содержит акторов фрейм и модель действия,metadata_only,draft

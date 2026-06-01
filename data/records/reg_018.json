@@ -1,0 +1,80 @@
+{
+  "text_id": "reg_018",
+  "title": "Экономические итоги 2025 года в Якутии",
+  "author": null,
+  "source": "Неизвестный источник",
+  "source_type": "other",
+  "publication_date": null,
+  "year": null,
+  "url": "https://yakutia.info/article/214721",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "regional",
+  "genre": "other",
+  "speed_layer": "medium",
+  "region": "не указан",
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "regional_development"
+  ],
+  "selection_reason": "Материал из раздела «Региональные медиа», содержит концепт «ИТОГ», фрейм «экономическая оценка региона» и модель действия «диагностика», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ИТОГ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "экономическая оценка региона",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "экономика как пациент",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "рост / спад",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "регион / экономика",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "диагностика",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology",
+      "region"
+    ],
+    "uncertainty_notes": null
+  }
+}

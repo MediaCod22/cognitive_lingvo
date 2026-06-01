@@ -1,0 +1,92 @@
+{
+  "text_id": "canon_011",
+  "title": "Периодика: обсуждение русской классики",
+  "author": null,
+  "source": "Неизвестный источник",
+  "source_type": "other",
+  "publication_date": null,
+  "year": 2024,
+  "url": "https://nm1925.ru/articles/2024/1-2024/periodika-1-2024",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "canonical_layer",
+  "genre": "other",
+  "speed_layer": "deep",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "culture_and_memory",
+    "literary_canon"
+  ],
+  "selection_reason": "Материал из раздела «Литературный канон», содержит концепт «ОБСУЖДЕНИЕ», фрейм «литературная рефлексия» и модель действия «обсуждение», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ОБСУЖДЕНИЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "литературная рефлексия",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "журнал как площадка",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "осмысление / равнодушие",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "критик / классика",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "обсуждение",
+    "norm_model": "преемственность и сохранение наследия",
+    "threat_model": null,
+    "temporality": [
+      "past_reference"
+    ],
+    "cultural_references": [
+      {
+        "value": "литературная классика",
+        "rank": "secondary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [
+      {
+        "value": "русская классическая литература",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "world_model_dimension": [
+      "memory"
+    ],
+    "uncertainty_notes": null
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/schemas/corpus_record.schema.json",
+  "title": "CorpusRecord",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "text_id",
+    "source",
+    "title",
+    "publication_date",
+    "url",
+    "access_date",
+    "segment",
+    "genre",
+    "speed_layer",
+    "topics",
+    "selection_reason",
+    "legal",
+    "annotation"
+  ],
+  "properties": {
+    "text_id": { "type": "string", "pattern": "^[a-z0-9_\\-]+$" },
+    "title": { "type": "string", "minLength": 3 },
+    "author": { "type": ["string", "null"] },
+    "source": { "type": "string", "minLength": 2 },
+    "source_type": {
+      "type": "string",
+      "enum": [
+        "agency",
+        "federal_media",
+        "business_media",
+        "regional_media",
+        "official_source",
+        "science_media",
+        "cultural_media",
+        "platform_publication",
+        "canonical_source",
+        "other"
+      ]
+    },
+    "publication_date": { "type": "string", "format": "date" },
+    "year": { "type": "integer", "minimum": 2023, "maximum": 2026 },
+    "url": { "type": "string", "format": "uri" },
+    "access_date": { "type": "string", "format": "date" },
+    "archive_link": { "type": ["string", "null"], "format": "uri" },
+    "segment": {
+      "type": "string",
+      "enum": [
+        "news",
+        "analytics",
+        "interview",
+        "opinion",
+        "cultural_journalism",
+        "popular_science",
+        "regional",
+        "canonical_layer"
+      ]
+    },
+    "genre": {
+      "type": "string",
+      "enum": [
+        "news",
+        "analysis",
+        "interview",
+        "column",
+        "essay",
+        "review",
+        "explainer",
+        "reportage",
+        "public_statement",
+        "cultural_article",
+        "popular_science_article",
+        "canonical_fragment",
+        "other"
+      ]
+    },
+    "speed_layer": {
+      "type": "string",
+      "enum": ["fast", "medium", "long", "deep"]
+    },
+    "region": { "type": ["string", "null"] },
+    "audience_type": { "type": ["string", "null"] },
+    "topics": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 5,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "enum": [
+          "state_and_society",
+          "economy_and_labor",
+          "technologies",
+          "education_and_science",
+          "culture_and_memory",
+          "family_and_demography",
+          "health_and_security",
+          "regional_development",
+          "international_agenda",
+          "everyday_life",
+          "law_and_institutions",
+          "future_models",
+          "literary_canon"
+        ]
+      }
+    },
+    "selection_reason": { "type": "string", "minLength": 20 },
+    "excerpt": { "type": ["string", "null"], "maxLength": 1000 },
+    "summary": { "type": ["string", "null"], "maxLength": 1200 },
+    "legal": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["license_status", "full_text_stored", "notes"],
+      "properties": {
+        "license_status": {
+          "type": "string",
+          "enum": [
+            "metadata_only",
+            "metadata_and_excerpt",
+            "public_domain_fragment",
+            "open_license_text",
+            "restricted_reference_only",
+            "excluded"
+          ]
+        },
+        "full_text_stored": { "type": "boolean" },
+        "notes": { "type": "string" }
+      }
+    },
+    "annotation_status": {
+      "type": "string",
+      "enum": ["draft", "manual_draft", "assisted_draft", "expert_reviewed", "revised", "excluded"]
+    },
+    "annotation": { "$ref": "annotation_schema.json" }
+  }
+}

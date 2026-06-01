@@ -1,0 +1,84 @@
+{
+  "text_id": "cultj_007",
+  "title": "Современное искусство расцветает средними чеками",
+  "author": null,
+  "source": "Независимая газета",
+  "source_type": "federal_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.ng.ru/culture/2024-03-31/6_8983_art.html",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "cultural_journalism",
+  "genre": "reportage",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "culture_and_memory"
+  ],
+  "selection_reason": "Материал из раздела «Культурная журналистика», содержит концепт «РЫНОК», фрейм «рыночная динамика искусства» и модель действия «продажа», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "РЫНОК",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "рыночная динамика искусства",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "искусство как товар",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "коммерция / творчество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "рынок / художник",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "продажа",
+    "norm_model": "культурная преемственность и осмысление",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [
+      {
+        "value": "культурное событие",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [],
+    "world_model_dimension": [
+      "culture"
+    ],
+    "uncertainty_notes": null
+  }
+}

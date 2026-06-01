@@ -1,0 +1,78 @@
+{
+  "text_id": "opin_014",
+  "title": "Грамотность в эпоху нейросетей: что мы теряем",
+  "author": null,
+  "source": "Сноб",
+  "source_type": "cultural_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://snob.ru/entry/3120010",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "opinion",
+  "genre": "other",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Колонки / публицистика», содержит концепт «ГРАМОТНОСТЬ», фрейм «трансформация языковой культуры» и модель действия «наблюдение», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ГРАМОТНОСТЬ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "трансформация языковой культуры",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "язык как инструмент",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "качество / упрощение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "общество / технологии",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "наблюдение",
+    "norm_model": "ценностная определённость и аргументация",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology"
+    ],
+    "uncertainty_notes": null
+  }
+}

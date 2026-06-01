@@ -1,0 +1,80 @@
+{
+  "text_id": "news_020",
+  "title": "Росстат назвал размер инфляции в 2025 году",
+  "author": null,
+  "source": "РБК",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.rbc.ru/rbcfreenews/696a72839a7947f46b0d9367",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "economy_and_labor",
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «СТОИМОСТЬ», фрейм «инфляционный процесс» и модель действия «контроль», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СТОИМОСТЬ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "инфляционный процесс",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "инфляция как давление",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "дороговизна / доступность",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "ЦБ / потребитель",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "контроль",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "economy",
+      "technology"
+    ],
+    "uncertainty_notes": null
+  }
+}

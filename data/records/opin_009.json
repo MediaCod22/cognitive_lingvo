@@ -1,0 +1,79 @@
+{
+  "text_id": "opin_009",
+  "title": "Что изменилось в инвестприоритетах",
+  "author": null,
+  "source": "НВО — Независимая газета",
+  "source_type": "federal_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://nvo.ng.ru/editorial/2025-12-26/01_9409_red.html",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "opinion",
+  "genre": "column",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "economy_and_labor",
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Колонки / публицистика», содержит концепт «ИНВЕСТИЦИЯ», фрейм «экономическая переориентация» и модель действия «перераспределение», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ИНВЕСТИЦИЯ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "экономическая переориентация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "инвестиция как посев",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "развитие / стагнация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "инвестор / экономика",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "перераспределение",
+    "norm_model": "ценностная определённость и аргументация",
+    "threat_model": null,
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "economy"
+    ],
+    "uncertainty_notes": null
+  }
+}

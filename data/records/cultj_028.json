@@ -1,0 +1,85 @@
+{
+  "text_id": "cultj_028",
+  "title": "Булатов, Моне и передвижники: выставки в музеях РФ 2024",
+  "author": null,
+  "source": "Forbes Russia",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.forbes.ru/forbeslife/503555-bulatov-mone-i-peredvizniki",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "cultural_journalism",
+  "genre": "other",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "economy_and_labor",
+    "culture_and_memory"
+  ],
+  "selection_reason": "Материал из раздела «Культурная журналистика», содержит концепт «АНОНС», фрейм «музейный сезон» и модель действия «подготовка», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "АНОНС",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "музейный сезон",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "музей как храм",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "классика / современность",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "куратор / зритель",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "подготовка",
+    "norm_model": "культурная преемственность и осмысление",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [
+      {
+        "value": "художественная выставка",
+        "rank": "secondary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [],
+    "world_model_dimension": [
+      "culture"
+    ],
+    "uncertainty_notes": null
+  }
+}

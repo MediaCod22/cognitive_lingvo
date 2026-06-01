@@ -1,0 +1,80 @@
+{
+  "text_id": "opin_008",
+  "title": "Вся кООНпромиссная рать",
+  "author": null,
+  "source": "Коммерсантъ",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.kommersant.ru/doc/8364012",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "opinion",
+  "genre": "column",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "state_and_society",
+    "technologies",
+    "international_agenda"
+  ],
+  "selection_reason": "Материал из раздела «Колонки / публицистика», содержит концепт «КОМПРОМИСС», фрейм «международная дипломатия» и модель действия «переговоры», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "КОМПРОМИСС",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "международная дипломатия",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "ООН как театр",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "компромисс / конфронтация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "дипломат / ООН",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "переговоры",
+    "norm_model": "ценностная определённость и аргументация",
+    "threat_model": null,
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "state"
+    ],
+    "uncertainty_notes": null
+  }
+}

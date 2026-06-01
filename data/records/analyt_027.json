@@ -1,0 +1,80 @@
+{
+  "text_id": "analyt_027",
+  "title": "В мире сформировался тренд на смягчение регулирования ИИ",
+  "author": null,
+  "source": "Ведомости",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": 2026,
+  "url": "https://www.vedomosti.ru/press_releases/2026/01/21/v-mire-sformirovalsya-trend-na-smyagchenie-i-peresmotr-regulirovaniya-v-sfere-generativnogo-ii",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "analytics",
+  "genre": "analysis",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "law_and_institutions",
+    "future_models"
+  ],
+  "selection_reason": "Материал из раздела «Аналитика», содержит концепт «СМЯГЧЕНИЕ», фрейм «регуляторная переориентация» и модель действия «либерализация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СМЯГЧЕНИЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "регуляторная переориентация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "регулирование как поводок",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "свобода / ограничение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "государство / индустрия",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "либерализация",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology"
+    ],
+    "uncertainty_notes": null
+  }
+}

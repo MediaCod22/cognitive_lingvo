@@ -1,0 +1,78 @@
+{
+  "text_id": "reg_005",
+  "title": "70 новых амбулаторий и ФАПов в Крыму",
+  "author": null,
+  "source": "Неизвестный источник",
+  "source_type": "other",
+  "publication_date": null,
+  "year": null,
+  "url": "https://c-pravda.ru/news/2026-02-17/bolee-70-novykh-ambulatorijj-i-fapov-postroili-v-krymu-v-2025-godu",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "regional",
+  "genre": "other",
+  "speed_layer": "medium",
+  "region": "не указан",
+  "audience_type": null,
+  "topics": [
+    "regional_development"
+  ],
+  "selection_reason": "Материал из раздела «Региональные медиа», содержит концепт «ЗДОРОВЬЕ», фрейм «медицинская инфраструктура» и модель действия «строительство», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ЗДОРОВЬЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "медицинская инфраструктура",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "больница как фундамент",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "развитие / отставание",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "власть / пациент",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "строительство",
+    "norm_model": "локальная модель развития и адаптации",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "region"
+    ],
+    "uncertainty_notes": null
+  }
+}

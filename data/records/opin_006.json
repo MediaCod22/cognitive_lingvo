@@ -1,0 +1,78 @@
+{
+  "text_id": "opin_006",
+  "title": "Что мы читали в 2025 году: рейтинг издательств",
+  "author": null,
+  "source": "Сноб",
+  "source_type": "cultural_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://snob.ru/literature/chto-my-chitali-v-2025-godu-reiting-knizhnykh-izdatelstv",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "opinion",
+  "genre": "column",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Колонки / публицистика», содержит концепт «ЧТЕНИЕ», фрейм «книжный рынок» и модель действия «выбор», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ЧТЕНИЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "книжный рынок",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "книга как компас",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "качество / конвейер",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "читатель / рынок",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "выбор",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology"
+    ],
+    "uncertainty_notes": null
+  }
+}

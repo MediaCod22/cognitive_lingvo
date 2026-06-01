@@ -1,0 +1,85 @@
+{
+  "text_id": "analyt_013",
+  "title": "Рынок защиты ИИ формируется: прогнозы и угрозы",
+  "author": null,
+  "source": "Коммерсантъ",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.kommersant.ru/doc/8271101",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "analytics",
+  "genre": "analysis",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "economy_and_labor",
+    "technologies",
+    "health_and_security",
+    "future_models"
+  ],
+  "selection_reason": "Материал из раздела «Аналитика», содержит концепт «БЕЗОПАСНОСТЬ», фрейм «формирование рынка защиты» и модель действия «защита», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "БЕЗОПАСНОСТЬ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "формирование рынка защиты",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "ИИ как замок с дырами",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "защита / уязвимость",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "индустрия / ИИ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "защита",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "future_projection",
+      "crisis_time"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "economy",
+      "technology",
+      "security",
+      "future"
+    ],
+    "uncertainty_notes": null
+  }
+}

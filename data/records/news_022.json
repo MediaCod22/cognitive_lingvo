@@ -1,0 +1,81 @@
+{
+  "text_id": "news_022",
+  "title": "Минэк снизил прогноз роста экономики до 1% в 2025",
+  "author": null,
+  "source": "Ведомости",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": 2025,
+  "url": "https://www.vedomosti.ru/economics/articles/2025/09/24/1141664-minek-snizil-prognoz",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "economy_and_labor",
+    "future_models"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «ПАДЕНИЕ», фрейм «прогнозная корректировка» и модель действия «корректировка», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПАДЕНИЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "прогнозная корректировка",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "прогноз как прицел",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "реализм / оптимизм",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "министерство / экономика",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "корректировка",
+    "norm_model": "развитие и модернизация",
+    "threat_model": "экономическая стагнация",
+    "temporality": [
+      "present_event",
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "economy",
+      "future"
+    ],
+    "uncertainty_notes": null
+  }
+}

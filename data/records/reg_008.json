@@ -1,0 +1,81 @@
+{
+  "text_id": "reg_008",
+  "title": "Жительниц юга России лишают свободы",
+  "author": null,
+  "source": "Неизвестный источник",
+  "source_type": "other",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.kavkazr.com/a/33756590.html",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "regional",
+  "genre": "other",
+  "speed_layer": "medium",
+  "region": "не указан",
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "regional_development"
+  ],
+  "selection_reason": "Материал из раздела «Региональные медиа», содержит концепт «ПРАВО», фрейм «гендерное неравенство» и модель действия «защита», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПРАВО",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "гендерное неравенство",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "Кавказ как клетка",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "свобода / подчинение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "традиция / женщина",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "защита",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology",
+      "ethics",
+      "region"
+    ],
+    "uncertainty_notes": null
+  }
+}

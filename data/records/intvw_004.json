@@ -1,0 +1,78 @@
+{
+  "text_id": "intvw_004",
+  "title": "Колесников — Forbes: Курьером стать проще, чем конструктором",
+  "author": null,
+  "source": "Forbes Russia",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.forbes.ru/rubriki-kanaly/video/559888-sergej-kolesnikov-forbes",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "interview",
+  "genre": "interview",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "state_and_society"
+  ],
+  "selection_reason": "Материал из раздела «Интервью», содержит концепт «ТРУД», фрейм «кадровый кризис» и модель действия «подготовка кадров», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ТРУД",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "кадровый кризис",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "образование как лифт",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "квалификация / деградация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "предприниматель / образование",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "подготовка кадров",
+    "norm_model": "экспертная позиция как ориентир",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

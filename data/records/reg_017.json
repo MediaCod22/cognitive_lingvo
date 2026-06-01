@@ -1,0 +1,82 @@
+{
+  "text_id": "reg_017",
+  "title": "Топ-10 культурных событий в Башкирии за 2024",
+  "author": null,
+  "source": "Неизвестный источник",
+  "source_type": "other",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.bashinform.ru/news/culture/2025-01-09/top-10-kulturnyh-sobytiy-v-bashkirii-za-2024-god-4070995",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "regional",
+  "genre": "other",
+  "speed_layer": "medium",
+  "region": "не указан",
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "culture_and_memory",
+    "regional_development"
+  ],
+  "selection_reason": "Материал из раздела «Региональные медиа», содержит концепт «КУЛЬТУРА», фрейм «региональная культурная жизнь» и модель действия «популяризация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "КУЛЬТУРА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "региональная культурная жизнь",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "культура как лицо",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "многообразие / однообразие",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "регион / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "популяризация",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology",
+      "culture",
+      "region"
+    ],
+    "uncertainty_notes": null
+  }
+}

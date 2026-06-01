@@ -1,0 +1,86 @@
+{
+  "text_id": "cultj_006",
+  "title": "«Новое общество художников»",
+  "author": null,
+  "source": "Независимая газета",
+  "source_type": "federal_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.ng.ru/culture/2024-10-27/7_9123_museum.html",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "cultural_journalism",
+  "genre": "review",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "economy_and_labor",
+    "culture_and_memory"
+  ],
+  "selection_reason": "Материал из раздела «Культурная журналистика», содержит концепт «СООБЩЕСТВО», фрейм «коллективное творчество» и модель действия «популяризация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СООБЩЕСТВО",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "коллективное творчество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "искусство как диалог",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "коллектив / индивидуальность",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "художник / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "популяризация",
+    "norm_model": "культурная преемственность и осмысление",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [
+      {
+        "value": "культурное событие",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [],
+    "world_model_dimension": [
+      "culture",
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

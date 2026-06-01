@@ -1,0 +1,80 @@
+{
+  "text_id": "analyt_018",
+  "title": "Внедрение ИИ может принести экономике до 13 трлн руб.",
+  "author": null,
+  "source": "Ведомости",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": 2025,
+  "url": "https://www.vedomosti.ru/press_releases/2025/12/08/vnedrenie-ii-mozhet-prinesti-rossiiskoi-ekonomike-do-13-trln-rub-k-2030-g",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "analytics",
+  "genre": "analysis",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "economy_and_labor",
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Аналитика», содержит концепт «ПОТЕНЦИАЛ», фрейм «экономический прогноз» и модель действия «внедрение», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПОТЕНЦИАЛ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "экономический прогноз",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "ИИ как золотая жила",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "возможность / упущение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "бизнес / государство",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "внедрение",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "economy",
+      "technology"
+    ],
+    "uncertainty_notes": null
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "text_id": "news_003",
+  "title": "Российские ученые оценили влияние ИИ на фармацевтику",
+  "author": null,
+  "source": "РИА Новости",
+  "source_type": "agency",
+  "publication_date": null,
+  "year": null,
+  "url": "https://ria.ru/20260530/uchenye-2095743428.html",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "education_and_science"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «ЗНАНИЕ», фрейм «научное открытие» и модель действия «инновация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ЗНАНИЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "научное открытие",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "наука как двигатель",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "открытие / застой",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "учёный / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "инновация",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology",
+      "knowledge"
+    ],
+    "uncertainty_notes": null
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "text_id": "news_014",
+  "title": "ВЦИОМ выделил четыре демографических сценария к 2036",
+  "author": null,
+  "source": "Ведомости",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": 2025,
+  "url": "https://www.vedomosti.ru/society/articles/2025/05/16/1110458-vtsiom-videlil-chetire-demograficheskih-stsenariya",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "family_and_demography",
+    "future_models"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «ПРОГНОЗ», фрейм «сценарное планирование» и модель действия «прогнозирование», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПРОГНОЗ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "сценарное планирование",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "будущее как развилка",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "оптимизм / пессимизм",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "эксперт / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "прогнозирование",
+    "norm_model": "событие фиксирует актуальную модель действия",
+    "threat_model": "демографический кризис",
+    "temporality": [
+      "present_event",
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "future",
+      "family"
+    ],
+    "uncertainty_notes": null
+  }
+}

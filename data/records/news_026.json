@@ -1,0 +1,81 @@
+{
+  "text_id": "news_026",
+  "title": "В Москве число IT-преступлений против граждан снизилось",
+  "author": null,
+  "source": "ТАСС",
+  "source_type": "agency",
+  "publication_date": null,
+  "year": null,
+  "url": "https://tass.ru/obschestvo/27546499",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "health_and_security"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «ЗАЩИТА», фрейм «цифровая безопасность» и модель действия «превенция», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ЗАЩИТА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "цифровая безопасность",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "киберпространство как поле боя",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "защита / уязвимость",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "МВД / гражданин",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "превенция",
+    "norm_model": "стабильность и порядок",
+    "threat_model": "киберугроза и цифровая атака",
+    "temporality": [
+      "present_event",
+      "crisis_time"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "security",
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

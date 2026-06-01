@@ -1,0 +1,81 @@
+{
+  "text_id": "news_007",
+  "title": "Хакеры стали вдвое чаще использовать ИИ для атак",
+  "author": null,
+  "source": "Известия",
+  "source_type": "federal_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://iz.ru/2049479/iana-shturma/novyj-kod-hakery-stali-vdvoe-chashche-ispolzovat-ii-dlya-atak",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "health_and_security"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «УГРОЗА», фрейм «кибератака» и модель действия «защита», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "УГРОЗА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "кибератака",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "ИИ как оружие",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "опасность / защита",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "хакер / государство",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "защита",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "киберугроза и цифровая атака",
+    "temporality": [
+      "present_event",
+      "crisis_time"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology",
+      "security"
+    ],
+    "uncertainty_notes": null
+  }
+}

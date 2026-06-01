@@ -1,0 +1,82 @@
+{
+  "text_id": "reg_012",
+  "title": "Глава Коми Уйба ушел в отставку",
+  "author": null,
+  "source": "Неизвестный источник",
+  "source_type": "other",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.severreal.org/a/glava-komi-uyba-ushel-v-otstavku/33176020.html",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "regional",
+  "genre": "other",
+  "speed_layer": "medium",
+  "region": "не указан",
+  "audience_type": null,
+  "topics": [
+    "state_and_society",
+    "economy_and_labor",
+    "technologies",
+    "regional_development"
+  ],
+  "selection_reason": "Материал из раздела «Региональные медиа», содержит концепт «ОТСТАВКА», фрейм «политическая ротация» и модель действия «замена», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ОТСТАВКА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "политическая ротация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "губернатор как руль",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "перемены / застой",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "губернатор / регион",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "замена",
+    "norm_model": "локальная модель развития и адаптации",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "state",
+      "region"
+    ],
+    "uncertainty_notes": null
+  }
+}

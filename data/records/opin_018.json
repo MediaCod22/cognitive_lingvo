@@ -1,0 +1,78 @@
+{
+  "text_id": "opin_018",
+  "title": "Поколение Z и рынок труда: кто кого",
+  "author": null,
+  "source": "Сноб",
+  "source_type": "cultural_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://snob.ru/entry/3115005",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "opinion",
+  "genre": "essay",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "economy_and_labor"
+  ],
+  "selection_reason": "Материал из раздела «Колонки / публицистика», содержит концепт «ПОКОЛЕНИЕ», фрейм «поколенческая динамика на рынке труда» и модель действия «адаптация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПОКОЛЕНИЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "поколенческая динамика на рынке труда",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "поколение как волна",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "новизна / опыт",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "молодёжь / рынок",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "адаптация",
+    "norm_model": "ценностная определённость и аргументация",
+    "threat_model": null,
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "economy"
+    ],
+    "uncertainty_notes": null
+  }
+}

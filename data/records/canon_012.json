@@ -1,0 +1,92 @@
+{
+  "text_id": "canon_012",
+  "title": "Преодолевая страх: переосмысление классики",
+  "author": null,
+  "source": "Неизвестный источник",
+  "source_type": "other",
+  "publication_date": null,
+  "year": null,
+  "url": "https://znamlit.ru/publication.php?id=9257",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "canonical_layer",
+  "genre": "other",
+  "speed_layer": "deep",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "culture_and_memory",
+    "literary_canon"
+  ],
+  "selection_reason": "Материал из раздела «Литературный канон», содержит концепт «СТРАХ», фрейм «неклассическая рецепция» и модель действия «переосмысление», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СТРАХ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "неклассическая рецепция",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "страх как барьер",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "преодоление / подчинение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "критик / классика",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "переосмысление",
+    "norm_model": "преемственность и сохранение наследия",
+    "threat_model": null,
+    "temporality": [
+      "past_reference"
+    ],
+    "cultural_references": [
+      {
+        "value": "литературная классика",
+        "rank": "secondary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [
+      {
+        "value": "русская классическая литература",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "world_model_dimension": [
+      "memory"
+    ],
+    "uncertainty_notes": null
+  }
+}

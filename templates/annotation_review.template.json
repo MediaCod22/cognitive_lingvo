@@ -1,0 +1,16 @@
+{
+  "text_id": "news_fed_2024_001",
+  "reviewer": "expert_initials",
+  "review_date": "2026-01-15",
+  "decision": "accepted_with_minor_revision",
+  "checks": {
+    "source_reproducible": true,
+    "legal_status_checked": true,
+    "genre_correct": true,
+    "segment_correct": true,
+    "limits_not_exceeded": true,
+    "categories_supported_by_text": true,
+    "needs_second_review": false
+  },
+  "comments": "Комментарий эксперта."
+}

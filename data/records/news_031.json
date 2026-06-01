@@ -1,0 +1,81 @@
+{
+  "text_id": "news_031",
+  "title": "Как РОСКОНЦЕРТ превращает искусство в дипломатию",
+  "author": null,
+  "source": "Лента.ру",
+  "source_type": "federal_media",
+  "publication_date": null,
+  "year": 2025,
+  "url": "https://lenta.ru/articles/2025/12/24/kulturnyy-obmen",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "culture_and_memory",
+    "international_agenda"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «ДИПЛОМАТИЯ», фрейм «культурный обмен» и модель действия «культурный обмен», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ДИПЛОМАТИЯ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "культурный обмен",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "культура как мост",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "открытость / изоляция",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "государство / культура",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "культурный обмен",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology",
+      "culture"
+    ],
+    "uncertainty_notes": null
+  }
+}

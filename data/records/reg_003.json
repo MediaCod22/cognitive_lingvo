@@ -1,0 +1,81 @@
+{
+  "text_id": "reg_003",
+  "title": "Волгоград переименуют в Сталинград 2 февраля",
+  "author": null,
+  "source": "Неизвестный источник",
+  "source_type": "other",
+  "publication_date": null,
+  "year": null,
+  "url": "https://gorvesti.ru/society/volgograd-pereimenuyut-v-stalingrad-2-fevralya-217217.html",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "regional",
+  "genre": "other",
+  "speed_layer": "medium",
+  "region": "не указан",
+  "audience_type": null,
+  "topics": [
+    "culture_and_memory",
+    "regional_development"
+  ],
+  "selection_reason": "Материал из раздела «Региональные медиа», содержит концепт «ПАМЯТЬ», фрейм «историческая символика» и модель действия «чествование», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПАМЯТЬ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "историческая символика",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "город как память",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "память / забвение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "власть / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "чествование",
+    "norm_model": "преемственность и сохранение наследия",
+    "threat_model": "утрата памяти и равнодушие",
+    "temporality": [
+      "past_reference",
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "memory",
+      "region"
+    ],
+    "uncertainty_notes": null
+  }
+}

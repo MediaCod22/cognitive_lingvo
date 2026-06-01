@@ -1,0 +1,102 @@
+{
+  "text_id": "canon_006",
+  "title": "Толстой и Достоевский: монография",
+  "author": null,
+  "source": "Неизвестный источник",
+  "source_type": "other",
+  "publication_date": null,
+  "year": null,
+  "url": "https://voplit.ru/article/tolstoj-i-dostoevskij",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "canonical_layer",
+  "genre": "other",
+  "speed_layer": "deep",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "culture_and_memory",
+    "literary_canon"
+  ],
+  "selection_reason": "Материал из раздела «Литературный канон», содержит концепт «ДУАЛИЗМ», фрейм «классическая оппозиция» и модель действия «осмысление», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ДУАЛИЗМ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "классическая оппозиция",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "Толстой и Достоевский как полюса",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "два пути / один",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "критик / классика",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "осмысление",
+    "norm_model": "долг, ответственность и нравственный выбор",
+    "threat_model": null,
+    "temporality": [
+      "past_reference"
+    ],
+    "cultural_references": [
+      {
+        "value": "творчество Л.Н. Толстого",
+        "rank": "secondary",
+        "evidence": null
+      },
+      {
+        "value": "творчество Ф.М. Достоевского",
+        "rank": "secondary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [
+      {
+        "value": "Л.Н. Толстой",
+        "rank": "primary",
+        "evidence": null
+      },
+      {
+        "value": "Ф.М. Достоевский",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "world_model_dimension": [
+      "memory"
+    ],
+    "uncertainty_notes": null
+  }
+}

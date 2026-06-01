@@ -1,0 +1,85 @@
+{
+  "text_id": "cultj_017",
+  "title": "Почему на биеннале в Венеции Россию представляет Узбекистан",
+  "author": null,
+  "source": "Forbes Russia",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.forbes.ru/forbeslife/513921-pocemu-na-biennale-v-veneciu-rossiu-predstavlaet-uzbekistan",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "cultural_journalism",
+  "genre": "reportage",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Культурная журналистика», содержит концепт «ПАРАДОКС», фрейм «культурная репрезентация» и модель действия «репрезентация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПАРАДОКС",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "культурная репрезентация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "биеннале как витрина",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "присутствие / отсутствие",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "страна / искусство",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "репрезентация",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [
+      {
+        "value": "международная биеннале",
+        "rank": "secondary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology",
+      "culture"
+    ],
+    "uncertainty_notes": null
+  }
+}

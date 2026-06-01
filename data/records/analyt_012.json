@@ -1,0 +1,81 @@
+{
+  "text_id": "analyt_012",
+  "title": "Кибератаки в России в 2025 году",
+  "author": null,
+  "source": "Коммерсантъ",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.kommersant.ru/doc/8462729",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "analytics",
+  "genre": "analysis",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "health_and_security"
+  ],
+  "selection_reason": "Материал из раздела «Аналитика», содержит концепт «УГРОЗА», фрейм «цифровая конкуренция» и модель действия «защита», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "УГРОЗА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "цифровая конкуренция",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "кибератака как вторжение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "защита / уязвимость",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "хакер / организация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "защита",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "киберугроза и цифровая атака",
+    "temporality": [
+      "crisis_time",
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology",
+      "security"
+    ],
+    "uncertainty_notes": null
+  }
+}

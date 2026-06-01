@@ -1,0 +1,92 @@
+{
+  "text_id": "canon_003",
+  "title": "Другие Зощенко: к 130-летию",
+  "author": null,
+  "source": "Неизвестный источник",
+  "source_type": "other",
+  "publication_date": null,
+  "year": null,
+  "url": "https://lgz.ru/article/drugie-zoshchenko",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "canonical_layer",
+  "genre": "other",
+  "speed_layer": "deep",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "culture_and_memory",
+    "literary_canon"
+  ],
+  "selection_reason": "Материал из раздела «Литературный канон», содержит концепт «НАСЛЕДИЕ», фрейм «литературный юбилей» и модель действия «чествование», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "НАСЛЕДИЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "литературный юбилей",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "Зощенко как зеркало эпохи",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "осмысление / забвение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "писатель / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "чествование",
+    "norm_model": "преемственность и сохранение наследия",
+    "threat_model": null,
+    "temporality": [
+      "past_reference"
+    ],
+    "cultural_references": [
+      {
+        "value": "канонический текст в медийной репрезентации",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [
+      {
+        "value": "каноническое произведение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "world_model_dimension": [
+      "memory"
+    ],
+    "uncertainty_notes": null
+  }
+}

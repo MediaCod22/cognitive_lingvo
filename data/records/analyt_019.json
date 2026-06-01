@@ -1,0 +1,84 @@
+{
+  "text_id": "analyt_019",
+  "title": "Битва за TikTok: США и Китай на поле цифровой безопасности",
+  "author": null,
+  "source": "РСМД",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://russiancouncil.ru/analytics-and-comments/columns/sandbox/bitva-za-tiktok",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "analytics",
+  "genre": "analysis",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "state_and_society",
+    "technologies",
+    "health_and_security",
+    "international_agenda"
+  ],
+  "selection_reason": "Материал из раздела «Аналитика», содержит концепт «СУВЕРЕНИТЕТ», фрейм «цифровая конкуренция» и модель действия «защита», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СУВЕРЕНИТЕТ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "цифровая конкуренция",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "TikTok как поле боя",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "суверенитет / зависимость",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "США / Китай",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "защита",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": null,
+    "temporality": [
+      "crisis_time",
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "state",
+      "technology",
+      "security"
+    ],
+    "uncertainty_notes": null
+  }
+}

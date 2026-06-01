@@ -1,0 +1,85 @@
+{
+  "text_id": "cultj_004",
+  "title": "Спектакли проекта «СВОи. Непридуманные истории»",
+  "author": null,
+  "source": "Культура.РФ",
+  "source_type": "cultural_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.culture.ru/materials/258946/spektakli-proekta-svoi-nepridumannye-istorii",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "cultural_journalism",
+  "genre": "review",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Культурная журналистика», содержит концепт «СВИДЕТЕЛЬСТВО», фрейм «документальный театр» и модель действия «свидетельствование», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СВИДЕТЕЛЬСТВО",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "документальный театр",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "сцена как свидетель",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "правда / вымысел",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "актёр / зритель",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "свидетельствование",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [
+      {
+        "value": "культурное событие",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology",
+      "culture"
+    ],
+    "uncertainty_notes": null
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "text_id": "intvw_020",
+  "title": "Селезнёв — Forbes: Как ИИ меняет медицину",
+  "author": null,
+  "source": "Forbes Russia",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.forbes.ru/rubriki-kanaly/video/562001-andrey-seleznev-forbes",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "interview",
+  "genre": "interview",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Интервью», содержит концепт «МЕДИЦИНА», фрейм «цифровая трансформация здравоохранения» и модель действия «внедрение», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "МЕДИЦИНА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "цифровая трансформация здравоохранения",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "ИИ как диагност",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "инновация / традиция",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "эксперт / медицина",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "внедрение",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology"
+    ],
+    "uncertainty_notes": null
+  }
+}

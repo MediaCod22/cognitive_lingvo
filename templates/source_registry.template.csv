@@ -1,0 +1,3 @@
+source_id,source_name,source_type,segment,url,region,publication_regular,archive_available,platform_accounts_allowed,selection_reason,status,notes
+src_ria,РИА Новости,agency,news,https://ria.ru/,federal,true,true,true,Агентская событийная повестка,active,
+src_culture,Культура.РФ,cultural_media,cultural_journalism,https://www.culture.ru/,federal,true,true,true,Культурная память и канонические репрезентации,active,

@@ -1,0 +1,79 @@
+{
+  "text_id": "news_017",
+  "title": "Вузы перейдут на новую систему образования с сентября",
+  "author": null,
+  "source": "Интерфакс",
+  "source_type": "agency",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.interfax.ru/russia/1077376",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "education_and_science"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «ПЕРЕХОД», фрейм «системная трансформация» и модель действия «реализация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПЕРЕХОД",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "системная трансформация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "образование как механизм",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "прогресс / сопротивление",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "министерство / вуз",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "реализация",
+    "norm_model": "событие фиксирует актуальную модель действия",
+    "threat_model": "деградация образования",
+    "temporality": [
+      "present_event",
+      "rupture"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

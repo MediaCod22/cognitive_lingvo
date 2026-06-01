@@ -1,0 +1,93 @@
+{
+  "text_id": "cultj_019",
+  "title": "Почему классика должна сопровождать детвору",
+  "author": null,
+  "source": "Российская газета",
+  "source_type": "official_source",
+  "publication_date": null,
+  "year": 2024,
+  "url": "https://rg.ru/2024/09/12/preliudii-narodnoj-liubvi.html",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "cultural_journalism",
+  "genre": "essay",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "culture_and_memory",
+    "literary_canon"
+  ],
+  "selection_reason": "Материал из раздела «Культурная журналистика», содержит концепт «КАНОН», фрейм «классическое образование» и модель действия «просвещение», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "КАНОН",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "классическое образование",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "классика как фундамент",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "просвещение / невежество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "школа / ребёнок",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "просвещение",
+    "norm_model": "преемственность и сохранение наследия",
+    "threat_model": null,
+    "temporality": [
+      "past_reference",
+      "continuity"
+    ],
+    "cultural_references": [
+      {
+        "value": "литературная классика",
+        "rank": "secondary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [
+      {
+        "value": "русская классическая литература",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "world_model_dimension": [
+      "family",
+      "culture"
+    ],
+    "uncertainty_notes": null
+  }
+}

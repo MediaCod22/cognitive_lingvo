@@ -1,0 +1,79 @@
+{
+  "text_id": "intvw_005",
+  "title": "Вьюгин — Forbes: Экономика входит в 2026 год с нулевым ростом",
+  "author": null,
+  "source": "Forbes Russia",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.forbes.ru/rubriki-kanaly/video/551407-oleg-v-ugin-forbes",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "interview",
+  "genre": "interview",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "economy_and_labor",
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Интервью», содержит концепт «СТАГНАЦИЯ», фрейм «экономическая оценка» и модель действия «диагностика», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СТАГНАЦИЯ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "экономическая оценка",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "экономика как больной",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "рост / спад",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "экономист / страна",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "диагностика",
+    "norm_model": "развитие и модернизация",
+    "threat_model": "экономическая стагнация",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "economy"
+    ],
+    "uncertainty_notes": null
+  }
+}

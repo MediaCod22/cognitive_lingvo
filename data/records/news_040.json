@@ -1,0 +1,79 @@
+{
+  "text_id": "news_040",
+  "title": "Власти начали готовить план по борьбе с ростом цен",
+  "author": null,
+  "source": "Лента.ру",
+  "source_type": "federal_media",
+  "publication_date": null,
+  "year": 2024,
+  "url": "https://lenta.ru/news/2024/08/29/fight",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "other",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "state_and_society",
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «БОРЬБА», фрейм «ценовой контроль» и модель действия «регулирование», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "БОРЬБА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "ценовой контроль",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "инфляция как враг",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "контроль / стихия",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "государство / ЦБ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "регулирование",
+    "norm_model": "событие фиксирует актуальную модель действия",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "state"
+    ],
+    "uncertainty_notes": null
+  }
+}

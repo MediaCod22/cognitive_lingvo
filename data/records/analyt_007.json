@@ -1,0 +1,79 @@
+{
+  "text_id": "analyt_007",
+  "title": "Технотренды-2026: ИИ лидирует, а главный барьер — не деньги",
+  "author": null,
+  "source": "РБК Тренды",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://trends.rbc.ru/trends/innovation/69b2ee809a79474d1d75ccd7",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "analytics",
+  "genre": "analysis",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "future_models"
+  ],
+  "selection_reason": "Материал из раздела «Аналитика», содержит концепт «БАРЬЕР», фрейм «организационное сопротивление» и модель действия «преодоление», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "БАРЬЕР",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "организационное сопротивление",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "культура как стена",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "открытость / консерватизм",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "компания / технологии",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "преодоление",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology"
+    ],
+    "uncertainty_notes": null
+  }
+}

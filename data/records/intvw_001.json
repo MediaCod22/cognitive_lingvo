@@ -1,0 +1,78 @@
+{
+  "text_id": "intvw_001",
+  "title": "Примаков — РБК: Снаряды и учебники взаимозависимы",
+  "author": null,
+  "source": "РБК",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": 2025,
+  "url": "https://www.rbc.ru/politics/08/07/2025/686b9ca39a79477adf9a5150",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "interview",
+  "genre": "interview",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "international_agenda"
+  ],
+  "selection_reason": "Материал из раздела «Интервью», содержит концепт «СУВЕРЕНИТЕТ», фрейм «международная политика» и модель действия «переговоры», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СУВЕРЕНИТЕТ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "международная политика",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "дипломатия как шахматы",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "сотрудничество / конфронтация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "дипломат / страна",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "переговоры",
+    "norm_model": "суверенитет и независимость",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

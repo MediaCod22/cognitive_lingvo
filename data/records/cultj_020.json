@@ -1,0 +1,84 @@
+{
+  "text_id": "cultj_020",
+  "title": "Кустурица: Русская культура — мой аргумент в споре с Европой",
+  "author": null,
+  "source": "Российская газета",
+  "source_type": "official_source",
+  "publication_date": null,
+  "year": 2024,
+  "url": "https://rg.ru/2024/10/31/emir-kusturica-russkaia-kultura-moj-argument-v-spore-s-evropoj.html",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "cultural_journalism",
+  "genre": "interview",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "culture_and_memory"
+  ],
+  "selection_reason": "Материал из раздела «Культурная журналистика», содержит концепт «АРГУМЕНТ», фрейм «культурная дипломатия» и модель действия «диалог», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "АРГУМЕНТ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "культурная дипломатия",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "культура как аргумент",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "диалог / конфронтация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "Кустурица / Европа",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "диалог",
+    "norm_model": "преемственность и сохранение наследия",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [
+      {
+        "value": "международная культурная дипломатия",
+        "rank": "secondary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [],
+    "world_model_dimension": [
+      "culture"
+    ],
+    "uncertainty_notes": null
+  }
+}

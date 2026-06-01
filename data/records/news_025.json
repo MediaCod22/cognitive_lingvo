@@ -1,0 +1,81 @@
+{
+  "text_id": "news_025",
+  "title": "В РФ снизилось количество преступлений с использованием новых технологий",
+  "author": null,
+  "source": "ТАСС",
+  "source_type": "agency",
+  "publication_date": null,
+  "year": null,
+  "url": "https://tass.ru/ekonomika/27530931",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "health_and_security"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «БЕЗОПАСНОСТЬ», фрейм «правопорядок» и модель действия «контроль», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "БЕЗОПАСНОСТЬ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "правопорядок",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "преступность как угроза",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "безопасность / опасность",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "правоохранители / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "контроль",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "киберугроза и цифровая атака",
+    "temporality": [
+      "present_event",
+      "crisis_time"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology",
+      "security"
+    ],
+    "uncertainty_notes": null
+  }
+}

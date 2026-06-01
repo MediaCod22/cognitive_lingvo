@@ -1,0 +1,80 @@
+{
+  "text_id": "news_023",
+  "title": "Годовая инфляция в России опустилась ниже 7%",
+  "author": null,
+  "source": "Лента.ру",
+  "source_type": "federal_media",
+  "publication_date": null,
+  "year": 2025,
+  "url": "https://lenta.ru/news/2025/11/26/godovaya-inflyatsiya-v-rossii-opustilas-nizhe-semi-protsentov",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "economy_and_labor",
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «СНИЖЕНИЕ», фрейм «ценовая стабилизация» и модель действия «стабилизация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СНИЖЕНИЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "ценовая стабилизация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "инфляция как лихорадка",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "снижение / рост",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "ЦБ / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "стабилизация",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "economy",
+      "technology"
+    ],
+    "uncertainty_notes": null
+  }
+}

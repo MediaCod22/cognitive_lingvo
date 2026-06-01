@@ -1,0 +1,79 @@
+{
+  "text_id": "opin_017",
+  "title": "О роли семьи в современном обществе",
+  "author": null,
+  "source": "Ведомости",
+  "source_type": "business_media",
+  "publication_date": null,
+  "year": 2025,
+  "url": "https://www.vedomosti.ru/opinion/columns/2025/08/20/1138450-o-rol-semyi-v-sovremennom-obschestve",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "opinion",
+  "genre": "other",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "family_and_demography"
+  ],
+  "selection_reason": "Материал из раздела «Колонки / публицистика», содержит концепт «СЕМЬЯ», фрейм «социальная динамика семьи» и модель действия «поддержка», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СЕМЬЯ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "социальная динамика семьи",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "семья как фундамент",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "традиция / модернизация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "общество / государство",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "поддержка",
+    "norm_model": "ценностная определённость и аргументация",
+    "threat_model": null,
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "society",
+      "family"
+    ],
+    "uncertainty_notes": null
+  }
+}

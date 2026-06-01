@@ -1,0 +1,80 @@
+{
+  "text_id": "news_033",
+  "title": "Год защитника Отечества — 2025",
+  "author": null,
+  "source": "Лента.ру",
+  "source_type": "federal_media",
+  "publication_date": null,
+  "year": 2025,
+  "url": "https://lenta.ru/articles/2025/01/15/god-zaschitnika-otechestva-2025",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "culture_and_memory"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «ПОДВИГ», фрейм «историческая память» и модель действия «чествование», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПОДВИГ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "историческая память",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "память как якорь",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "честь / забвение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "государство / народ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "чествование",
+    "norm_model": "преемственность и сохранение наследия",
+    "threat_model": "утрата памяти и равнодушие",
+    "temporality": [
+      "present_event",
+      "past_reference"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "memory"
+    ],
+    "uncertainty_notes": null
+  }
+}

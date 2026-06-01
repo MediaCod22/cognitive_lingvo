@@ -1,0 +1,85 @@
+{
+  "text_id": "cultj_022",
+  "title": "Современность из архива",
+  "author": null,
+  "source": "Независимая газета",
+  "source_type": "federal_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.ng.ru/culture/2024-11-17/6_9136_history.html",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "cultural_journalism",
+  "genre": "review",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "state_and_society"
+  ],
+  "selection_reason": "Материал из раздела «Культурная журналистика», содержит концепт «АРХИВ», фрейм «современное искусство и память» и модель действия «исследование», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "АРХИВ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "современное искусство и память",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "архив как источник",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "новое / вечное",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "художник / история",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "исследование",
+    "norm_model": "культурная преемственность и осмысление",
+    "threat_model": null,
+    "temporality": [
+      "past_reference"
+    ],
+    "cultural_references": [
+      {
+        "value": "культурное событие",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [],
+    "world_model_dimension": [
+      "memory",
+      "culture"
+    ],
+    "uncertainty_notes": null
+  }
+}

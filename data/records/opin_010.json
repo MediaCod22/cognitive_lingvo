@@ -1,0 +1,80 @@
+{
+  "text_id": "opin_010",
+  "title": "100 ведущих политиков России в 2025 году",
+  "author": null,
+  "source": "НВО — Независимая газета",
+  "source_type": "federal_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://nvo.ng.ru/ideas/2026-01-11/6_9412_100.html",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "opinion",
+  "genre": "essay",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "state_and_society",
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Колонки / публицистика», содержит концепт «ВЛИЯНИЕ», фрейм «политический рейтинг» и модель действия «оценка», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ВЛИЯНИЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "политический рейтинг",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "политика как иерархия",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "власть / безвластие",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "политик / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "оценка",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "state",
+      "technology"
+    ],
+    "uncertainty_notes": null
+  }
+}

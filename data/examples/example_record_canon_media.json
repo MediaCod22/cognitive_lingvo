@@ -1,0 +1,59 @@
+{
+  "text_id": "canon_media_2025_001",
+  "title": "Пример материала о современной постановке классического произведения",
+  "author": "Редакция",
+  "source": "Культурное медиа",
+  "source_type": "cultural_media",
+  "publication_date": "2025-03-10",
+  "year": 2025,
+  "url": "https://example.org/culture/2025/03/10/example",
+  "access_date": "2026-01-15",
+  "archive_link": null,
+  "segment": "canonical_layer",
+  "genre": "review",
+  "speed_layer": "deep",
+  "region": "federal",
+  "audience_type": "cultural_public",
+  "topics": ["culture_and_memory", "literary_canon"],
+  "selection_reason": "Материал актуализирует классический сюжет в современной медиасистеме и содержит культурные отсылки, ценностные оппозиции и модель нравственного выбора.",
+  "excerpt": null,
+  "summary": "Материал представляет современную интерпретацию классического произведения и связывает ее с темами памяти, долга и ответственности.",
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "Полный современный текст не размещается; хранится карточка, ссылка, описание и разметка."
+  },
+  "annotation_status": "expert_reviewed",
+  "annotation": {
+    "concepts": [
+      {"value": "ДОЛГ", "rank": "primary", "evidence": "мотив обязанности героя"},
+      {"value": "ПАМЯТЬ", "rank": "secondary", "evidence": "обращение к прошлому"},
+      {"value": "ОТВЕТСТВЕННОСТЬ", "rank": "secondary", "evidence": "оценка выбора героя"}
+    ],
+    "frames": [
+      {"value": "нравственный выбор", "rank": "primary", "evidence": "ситуация представлена как испытание"}
+    ],
+    "metaphors": [
+      {"value": "жизнь как испытание", "rank": "secondary", "evidence": "лексика испытания и проверки"}
+    ],
+    "value_oppositions": [
+      {"value": "ответственность / безразличие", "rank": "primary", "evidence": "контраст между действием и уклонением"}
+    ],
+    "subject_roles": [
+      {"value": "герой", "rank": "primary", "evidence": "герой является носителем выбора"},
+      {"value": "зритель", "rank": "secondary", "evidence": "зрителю предлагается соотнесение с собой"}
+    ],
+    "action_model": "нравственный выбор и принятие ответственности",
+    "norm_model": "должное связано с памятью и ответственностью",
+    "threat_model": "утрата памяти и равнодушие",
+    "temporality": ["past_reference", "continuity"],
+    "cultural_references": [
+      {"value": "театральная интерпретация классики", "rank": "primary", "evidence": "описание постановки"}
+    ],
+    "literary_references": [
+      {"value": "классическое произведение", "rank": "primary", "evidence": "прямое упоминание произведения"}
+    ],
+    "world_model_dimension": ["culture", "memory", "ethics"],
+    "uncertainty_notes": null
+  }
+}

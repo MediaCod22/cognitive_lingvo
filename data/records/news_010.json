@@ -1,0 +1,80 @@
+{
+  "text_id": "news_010",
+  "title": "Путин поручил разработать меры по улучшению демографии",
+  "author": null,
+  "source": "РИА Новости",
+  "source_type": "agency",
+  "publication_date": null,
+  "year": null,
+  "url": "https://ria.ru/20251208/putiny-2060617599.html",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "family_and_demography"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «ЖИЗНЬ», фрейм «демографическая политика» и модель действия «сохранение», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ЖИЗНЬ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "демографическая политика",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "нация как организм",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "рождение / вымирание",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "президент / правительство",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "сохранение",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology",
+      "family"
+    ],
+    "uncertainty_notes": null
+  }
+}

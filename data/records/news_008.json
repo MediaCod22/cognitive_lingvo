@@ -1,0 +1,80 @@
+{
+  "text_id": "news_008",
+  "title": "Новое правительство России 2024: все министры, вице-премьеры",
+  "author": null,
+  "source": "Газета.ru",
+  "source_type": "federal_media",
+  "publication_date": null,
+  "year": 2024,
+  "url": "https://www.gazeta.ru/politics/2024/05/14/19076389.shtml",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "state_and_society",
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «ВЛАСТЬ», фрейм «государственное управление» и модель действия «управление», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ВЛАСТЬ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "государственное управление",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "правительство как механизм",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "стабильность / перемены",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "президент / министр",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "управление",
+    "norm_model": "развитие должно быть управляемым и полезным обществу",
+    "threat_model": "технологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "state",
+      "technology"
+    ],
+    "uncertainty_notes": null
+  }
+}

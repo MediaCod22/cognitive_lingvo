@@ -1,0 +1,107 @@
+{
+  "text_id": "canon_007",
+  "title": "Вера и неверие: Достоевский, Толстой, Чехов",
+  "author": null,
+  "source": "Неизвестный источник",
+  "source_type": "other",
+  "publication_date": null,
+  "year": null,
+  "url": "https://voplit.ru/article/vera-i-neverie-dostoevskij-tolstoj-chehov-i-drugie",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "canonical_layer",
+  "genre": "other",
+  "speed_layer": "deep",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "culture_and_memory",
+    "literary_canon"
+  ],
+  "selection_reason": "Материал из раздела «Литературный канон», содержит концепт «ВЕРА», фрейм «религиозно-философские мотивы» и модель действия «исследование», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ВЕРА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "религиозно-философские мотивы",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "вера как якорь",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "вера / безверие",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "писатель / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "исследование",
+    "norm_model": "долг, ответственность и нравственный выбор",
+    "threat_model": null,
+    "temporality": [
+      "past_reference"
+    ],
+    "cultural_references": [
+      {
+        "value": "творчество Л.Н. Толстого",
+        "rank": "secondary",
+        "evidence": null
+      },
+      {
+        "value": "творчество Ф.М. Достоевского",
+        "rank": "secondary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [
+      {
+        "value": "Л.Н. Толстой",
+        "rank": "primary",
+        "evidence": null
+      },
+      {
+        "value": "Ф.М. Достоевский",
+        "rank": "primary",
+        "evidence": null
+      },
+      {
+        "value": "А.П. Чехов",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "world_model_dimension": [
+      "memory"
+    ],
+    "uncertainty_notes": null
+  }
+}

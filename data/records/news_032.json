@@ -1,0 +1,78 @@
+{
+  "text_id": "news_032",
+  "title": "Как бренды из национальных республик сохраняют культуру",
+  "author": null,
+  "source": "Лента.ру",
+  "source_type": "federal_media",
+  "publication_date": null,
+  "year": 2025,
+  "url": "https://lenta.ru/articles/2025/11/06/eto-pamyat-o-rodnoy-zemle",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "culture_and_memory"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «ПАМЯТЬ», фрейм «культурное наследие» и модель действия «сохранение», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПАМЯТЬ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "культурное наследие",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "культура как корень",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "сохранение / утрата",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "общество / бренд",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "сохранение",
+    "norm_model": "преемственность и сохранение наследия",
+    "threat_model": "утрата памяти и равнодушие",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "culture"
+    ],
+    "uncertainty_notes": null
+  }
+}

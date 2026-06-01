@@ -1,0 +1,79 @@
+{
+  "text_id": "reg_019",
+  "title": "Жители Екатеринбурга оценили работу властей",
+  "author": null,
+  "source": "Российская газета",
+  "source_type": "official_source",
+  "publication_date": null,
+  "year": null,
+  "url": "https://www.ekburg.ru/news/2/97278-zhiteli-ekaterinburga-otsenili-rabotu-gorodskikh-vlastey",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "regional",
+  "genre": "other",
+  "speed_layer": "medium",
+  "region": "не указан",
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "regional_development"
+  ],
+  "selection_reason": "Материал из раздела «Региональные медиа», содержит концепт «ОЦЕНКА», фрейм «городское управление» и модель действия «мониторинг», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ОЦЕНКА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "городское управление",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "город как механизм",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "удовлетворённость / недовольство",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "власть / горожанин",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "мониторинг",
+    "norm_model": "локальная модель развития и адаптации",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "region"
+    ],
+    "uncertainty_notes": null
+  }
+}

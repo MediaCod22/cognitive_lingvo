@@ -1,0 +1,78 @@
+{
+  "text_id": "intvw_007",
+  "title": "Барокко с процессором: Олег Доу о новом искусстве",
+  "author": null,
+  "source": "Сноб",
+  "source_type": "cultural_media",
+  "publication_date": null,
+  "year": null,
+  "url": "https://snob.ru/art/barokko-s-protsessorom-oleg-dou-o-novom-iskusstve",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "interview",
+  "genre": "interview",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "culture_and_memory"
+  ],
+  "selection_reason": "Материал из раздела «Интервью», содержит концепт «ИСКУССТВО», фрейм «творческая трансформация» и модель действия «созидание», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ИСКУССТВО",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "творческая трансформация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "нейросеть как кисть",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "творчество / автоматизация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "художник / ИИ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "созидание",
+    "norm_model": "экспертная позиция как ориентир",
+    "threat_model": null,
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "culture"
+    ],
+    "uncertainty_notes": null
+  }
+}
