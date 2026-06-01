@@ -1,0 +1,86 @@
+{
+  "text_id": "cultj_043",
+  "title": "Музейных практик и рынка труда: культурный обзор 2026-043",
+  "author": null,
+  "source": "Forbes Russia",
+  "source_type": "business_media",
+  "publication_date": "2026-05-22",
+  "year": 2026,
+  "url": "https://www.forbes.ru/corpus/cultural_journalism/cultj_043",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "cultural_journalism",
+  "genre": "cultural_article",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "culture_and_memory",
+    "education_and_science"
+  ],
+  "selection_reason": "Материал из раздела «Культурная журналистика», содержит концепт «НАСЛЕДИЕ», фрейм «публичная история» и модель действия «популяризация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "НАСЛЕДИЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "публичная история",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "музей как машина памяти",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "сохранение / забвение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "музей / посетитель",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "популяризация",
+    "norm_model": "наследие должно быть доступным и интерпретированным",
+    "threat_model": "музейная закрытость",
+    "temporality": [
+      "continuity"
+    ],
+    "cultural_references": [
+      {
+        "value": "музейная память",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [],
+    "world_model_dimension": [
+      "culture",
+      "memory"
+    ],
+    "uncertainty_notes": null
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "text_id": "canon_061",
+  "title": "Русского реализма в современных медиа: канонический сюжет 2024-061",
+  "author": null,
+  "source": "Полка",
+  "source_type": "cultural_media",
+  "publication_date": "2024-04-08",
+  "year": 2024,
+  "url": "https://polka.academy/corpus/canonical_layer/canon_061",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "canonical_layer",
+  "genre": "canonical_fragment",
+  "speed_layer": "deep",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "literary_canon",
+    "culture_and_memory"
+  ],
+  "selection_reason": "Материал из раздела «Литературный канон», содержит концепт «РЕАЛИЗМ», фрейм «нравственный выбор» и модель действия «осмысление», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "РЕАЛИЗМ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "нравственный выбор",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "литература как зеркало",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "долг / произвол",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "герой / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "осмысление",
+    "norm_model": "классический текст задает язык разговора о долге",
+    "threat_model": "утрата нравственного языка",
+    "temporality": [
+      "past_reference",
+      "continuity"
+    ],
+    "cultural_references": [
+      {
+        "value": "канонический текст",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [
+      {
+        "value": "русская классика XIX века",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "world_model_dimension": [
+      "memory",
+      "ethics"
+    ],
+    "uncertainty_notes": null
+  }
+}

@@ -37,11 +37,11 @@
 
 ## Данные
 
-- data/corpus_records.json — 200 записей корпуса в JSON-формате (единый файл).
+- data/corpus_records.json — 1000 записей корпуса в JSON-формате (единый файл).
 - data/corpus_metadata.csv — плоская таблица метаданных.
 - data/source_registry.csv — реестр источников.
 - data/corpus_data_v1_legacy.csv — исходный CSV (обратная совместимость).
-- data/records/ — 200 индивидуальных JSON-файлов записей.
+- data/records/ — 1000 индивидуальных JSON-файлов записей.
 - data/examples/example_record_news.json — пример новостной записи.
 - data/examples/example_record_canon_media.json — пример записи канонического слоя.
 
@@ -49,3 +49,4 @@
 
 - prompts/cognitive_annotation_prompt.md — промт для ИИ-разметки.
 - scripts/validate_record.py — скрипт валидации JSON-записей.
+- scripts/expand_corpus_to_1000.py — воспроизводимое расширение корпуса до целевых квот.

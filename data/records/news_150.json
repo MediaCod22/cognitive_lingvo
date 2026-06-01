@@ -1,0 +1,80 @@
+{
+  "text_id": "news_150",
+  "title": "Ведомости: новая повестка о региональных инфраструктурных проектах в контексте цифровых платформ, 2025",
+  "author": null,
+  "source": "Ведомости",
+  "source_type": "business_media",
+  "publication_date": "2025-07-15",
+  "year": 2025,
+  "url": "https://www.vedomosti.ru/corpus/news/news_150",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "regional_development",
+    "state_and_society"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «ПРОСТРАНСТВО», фрейм «инфраструктурное развитие» и модель действия «инфраструктурное обновление», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПРОСТРАНСТВО",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "инфраструктурное развитие",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "регион как узел сети",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "центр / периферия",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "регион / федерация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "инфраструктурное обновление",
+    "norm_model": "пространственное развитие должно уменьшать разрыв между территориями",
+    "threat_model": "периферийность",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "region",
+      "state"
+    ],
+    "uncertainty_notes": null
+  }
+}

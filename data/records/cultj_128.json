@@ -1,0 +1,86 @@
+{
+  "text_id": "cultj_128",
+  "title": "Кино и общественной дискуссии и международной повестки: культурный обзор 2023-128",
+  "author": null,
+  "source": "Горький",
+  "source_type": "cultural_media",
+  "publication_date": "2023-01-01",
+  "year": 2023,
+  "url": "https://gorky.media/corpus/cultural_journalism/cultj_128",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "cultural_journalism",
+  "genre": "essay",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "culture_and_memory",
+    "everyday_life"
+  ],
+  "selection_reason": "Материал из раздела «Культурная журналистика», содержит концепт «ОБРАЗ», фрейм «массовая культура» и модель действия «культурная интерпретация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ОБРАЗ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "массовая культура",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "экран как зеркало общества",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "развлечение / смысл",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "автор / аудитория",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "культурная интерпретация",
+    "norm_model": "массовая культура может быть способом общественного разговора",
+    "threat_model": "обеднение смысла",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [
+      {
+        "value": "кинематографическая традиция",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [],
+    "world_model_dimension": [
+      "culture",
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

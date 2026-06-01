@@ -1,0 +1,80 @@
+{
+  "text_id": "news_111",
+  "title": "Ведомости: новая повестка о международной повестке в контексте транспортной системы, 2026",
+  "author": null,
+  "source": "Ведомости",
+  "source_type": "business_media",
+  "publication_date": "2026-04-22",
+  "year": 2026,
+  "url": "https://www.vedomosti.ru/corpus/news/news_111",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "international_agenda",
+    "state_and_society"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «СУВЕРЕНИТЕТ», фрейм «международная позиция» и модель действия «переговоры», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СУВЕРЕНИТЕТ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "международная позиция",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "дипломатия как шахматы",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "самостоятельность / зависимость",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "государство / внешний актор",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "переговоры",
+    "norm_model": "внешняя политика должна сохранять субъектность",
+    "threat_model": "внешнее давление",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "state",
+      "security"
+    ],
+    "uncertainty_notes": null
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "text_id": "analyt_119",
+  "title": "Как культурная память меняет модель здравоохранения: аналитический разбор 2026-119",
+  "author": null,
+  "source": "Известия",
+  "source_type": "federal_media",
+  "publication_date": "2026-03-22",
+  "year": 2026,
+  "url": "https://iz.ru/corpus/analytics/analyt_119",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "analytics",
+  "genre": "analysis",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "culture_and_memory",
+    "state_and_society"
+  ],
+  "selection_reason": "Материал из раздела «Аналитика», содержит концепт «ПАМЯТЬ», фрейм «интерпретация прошлого» и модель действия «переосмысление», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПАМЯТЬ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "интерпретация прошлого",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "память как архив",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "преемственность / забвение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "институт памяти / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "переосмысление",
+    "norm_model": "прошлое должно становиться ресурсом понимания настоящего",
+    "threat_model": "разрыв преемственности",
+    "temporality": [
+      "past_reference",
+      "continuity"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "memory",
+      "culture"
+    ],
+    "uncertainty_notes": null
+  }
+}

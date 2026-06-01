@@ -1,0 +1,81 @@
+{
+  "text_id": "news_195",
+  "title": "Москва 24: новая повестка о поддержке науки и образования в контексте публичной дискуссии, 2026",
+  "author": null,
+  "source": "Москва 24",
+  "source_type": "regional_media",
+  "publication_date": "2026-01-22",
+  "year": 2026,
+  "url": "https://www.m24.ru/corpus/news/news_195",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "education_and_science",
+    "future_models"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «ЗНАНИЕ», фрейм «инвестиция в будущее» и модель действия «поддержка исследований», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ЗНАНИЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "инвестиция в будущее",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "образование как лифт",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "знание / инерция",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "ученый / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "поддержка исследований",
+    "norm_model": "знание должно переводиться в общественную пользу",
+    "threat_model": "дефицит компетенций",
+    "temporality": [
+      "present_event",
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "knowledge",
+      "future"
+    ],
+    "uncertainty_notes": null
+  }
+}

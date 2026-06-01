@@ -1,0 +1,80 @@
+{
+  "text_id": "intvw_028",
+  "title": "Интервью о региональной идентичности и роли школьной программы: экспертная позиция 2023-028",
+  "author": null,
+  "source": "РИА Новости",
+  "source_type": "agency",
+  "publication_date": "2023-01-01",
+  "year": 2023,
+  "url": "https://ria.ru/corpus/interview/intvw_028",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "interview",
+  "genre": "interview",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "regional_development",
+    "everyday_life"
+  ],
+  "selection_reason": "Материал из раздела «Интервью», содержит концепт «МЕСТО», фрейм «локальная перспектива» и модель действия «самоописание», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "МЕСТО",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "локальная перспектива",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "город как биография",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "центр / локальность",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "горожанин / власть",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "самоописание",
+    "norm_model": "региональный опыт должен быть видимым",
+    "threat_model": "потеря локального голоса",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "region",
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

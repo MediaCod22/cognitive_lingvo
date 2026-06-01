@@ -1,0 +1,80 @@
+{
+  "text_id": "intvw_059",
+  "title": "Интервью о технологического будущего и роли здравоохранения: экспертная позиция 2026-059",
+  "author": null,
+  "source": "Коммерсантъ",
+  "source_type": "business_media",
+  "publication_date": "2026-03-22",
+  "year": 2026,
+  "url": "https://www.kommersant.ru/corpus/interview/intvw_059",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "interview",
+  "genre": "interview",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "future_models"
+  ],
+  "selection_reason": "Материал из раздела «Интервью», содержит концепт «БУДУЩЕЕ», фрейм «сценарии развития» и модель действия «прогнозирование», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "БУДУЩЕЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "сценарии развития",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "будущее как маршрут",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "возможность / риск",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "разработчик / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "прогнозирование",
+    "norm_model": "будущее требует ответственного проектирования",
+    "threat_model": "неконтролируемое ускорение",
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "future",
+      "technology"
+    ],
+    "uncertainty_notes": null
+  }
+}

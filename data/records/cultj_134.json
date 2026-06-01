@@ -1,0 +1,85 @@
+{
+  "text_id": "cultj_134",
+  "title": "Современного театра и молодежных инициатив: культурный обзор 2025-134",
+  "author": null,
+  "source": "Независимая газета",
+  "source_type": "federal_media",
+  "publication_date": "2025-07-15",
+  "year": 2025,
+  "url": "https://www.ng.ru/corpus/cultural_journalism/cultj_134",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "cultural_journalism",
+  "genre": "essay",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "culture_and_memory"
+  ],
+  "selection_reason": "Материал из раздела «Культурная журналистика», содержит концепт «СЦЕНА», фрейм «диалог эпох» и модель действия «интерпретация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СЦЕНА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "диалог эпох",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "театр как зеркало",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "традиция / эксперимент",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "режиссер / зритель",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "интерпретация",
+    "norm_model": "новаторство должно спорить с традицией осмысленно",
+    "threat_model": "поверхностная актуализация",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [
+      {
+        "value": "театральная традиция",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [],
+    "world_model_dimension": [
+      "culture",
+      "ethics"
+    ],
+    "uncertainty_notes": null
+  }
+}

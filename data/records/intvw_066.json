@@ -1,0 +1,87 @@
+{
+  "text_id": "intvw_066",
+  "title": "Интервью о культурной преемственности и роли транспортной системы: экспертная позиция 2025-066",
+  "author": null,
+  "source": "N+1",
+  "source_type": "science_media",
+  "publication_date": "2025-07-15",
+  "year": 2025,
+  "url": "https://nplus1.ru/corpus/interview/intvw_066",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "interview",
+  "genre": "interview",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "culture_and_memory",
+    "literary_canon"
+  ],
+  "selection_reason": "Материал из раздела «Интервью», содержит концепт «ПРЕЕМСТВЕННОСТЬ», фрейм «личная биография в культуре» и модель действия «свидетельство», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПРЕЕМСТВЕННОСТЬ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "личная биография в культуре",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "память как мост",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "традиция / разрыв",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "автор / читатель",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "свидетельство",
+    "norm_model": "культурный опыт должен быть передан и осмыслен",
+    "threat_model": "утрата памяти",
+    "temporality": [
+      "past_reference",
+      "continuity"
+    ],
+    "cultural_references": [
+      {
+        "value": "культурная память",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [],
+    "world_model_dimension": [
+      "culture",
+      "memory"
+    ],
+    "uncertainty_notes": null
+  }
+}

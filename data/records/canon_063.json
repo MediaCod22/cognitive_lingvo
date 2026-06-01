@@ -1,0 +1,93 @@
+{
+  "text_id": "canon_063",
+  "title": "Военной памяти в современных медиа: канонический сюжет 2026-063",
+  "author": null,
+  "source": "Независимая газета",
+  "source_type": "federal_media",
+  "publication_date": "2026-05-22",
+  "year": 2026,
+  "url": "https://www.ng.ru/corpus/canonical_layer/canon_063",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "canonical_layer",
+  "genre": "cultural_article",
+  "speed_layer": "deep",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "literary_canon",
+    "culture_and_memory"
+  ],
+  "selection_reason": "Материал из раздела «Литературный канон», содержит концепт «ПАМЯТЬ», фрейм «жертва и долг» и модель действия «сохранение памяти», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПАМЯТЬ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "жертва и долг",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "память как огонь",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "память / забвение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "поколение / свидетель",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "сохранение памяти",
+    "norm_model": "память о войне требует ответственного языка",
+    "threat_model": "ритуализация без понимания",
+    "temporality": [
+      "past_reference",
+      "continuity"
+    ],
+    "cultural_references": [
+      {
+        "value": "память о войне",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [
+      {
+        "value": "военная проза",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "world_model_dimension": [
+      "memory",
+      "ethics"
+    ],
+    "uncertainty_notes": null
+  }
+}

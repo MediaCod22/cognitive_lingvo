@@ -1,0 +1,80 @@
+{
+  "text_id": "reg_054",
+  "title": "Якутия: локальной экономики и рынка труда в региональной повестке 2025-054",
+  "author": null,
+  "source": "Коммерсантъ",
+  "source_type": "business_media",
+  "publication_date": "2025-07-15",
+  "year": 2025,
+  "url": "https://www.kommersant.ru/corpus/regional/reg_054",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "regional",
+  "genre": "reportage",
+  "speed_layer": "medium",
+  "region": "Якутия",
+  "audience_type": null,
+  "topics": [
+    "regional_development",
+    "economy_and_labor"
+  ],
+  "selection_reason": "Материал из раздела «Региональные медиа», содержит концепт «САМОСТОЯТЕЛЬНОСТЬ», фрейм «региональная устойчивость» и модель действия «поддержка инициатив», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "САМОСТОЯТЕЛЬНОСТЬ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "региональная устойчивость",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "регион как мастерская",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "саморазвитие / зависимость",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "предприниматель / регион",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "поддержка инициатив",
+    "norm_model": "региональное развитие должно опираться на местные ресурсы",
+    "threat_model": "экономическая периферийность",
+    "temporality": [
+      "continuity"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "region",
+      "economy"
+    ],
+    "uncertainty_notes": null
+  }
+}
