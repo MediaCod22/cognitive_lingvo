@@ -1,0 +1,80 @@
+{
+  "text_id": "reg_043",
+  "title": "Волгоград: образования и молодежных инициатив и экономической адаптации в региональной повестке 2026-043",
+  "author": null,
+  "source": "Коммерсантъ",
+  "source_type": "business_media",
+  "publication_date": "2026-05-22",
+  "year": 2026,
+  "url": "https://www.kommersant.ru/corpus/regional/reg_043",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "regional",
+  "genre": "news",
+  "speed_layer": "medium",
+  "region": "Волгоград",
+  "audience_type": null,
+  "topics": [
+    "regional_development",
+    "education_and_science"
+  ],
+  "selection_reason": "Материал из раздела «Региональные медиа», содержит концепт «БУДУЩЕЕ», фрейм «локальная мобильность» и модель действия «создание возможностей», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "БУДУЩЕЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "локальная мобильность",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "город как стартовая площадка",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "возможность / отток",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "молодежь / регион",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "создание возможностей",
+    "norm_model": "регион должен удерживать человеческий потенциал",
+    "threat_model": "миграционный отток",
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "region",
+      "future"
+    ],
+    "uncertainty_notes": null
+  }
+}

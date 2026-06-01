@@ -1,0 +1,80 @@
+{
+  "text_id": "reg_097",
+  "title": "Санкт-Петербург: городской инфраструктуры и научных исследований в региональной повестке 2024-097",
+  "author": null,
+  "source": "Российская газета",
+  "source_type": "official_source",
+  "publication_date": "2024-04-08",
+  "year": 2024,
+  "url": "https://rg.ru/corpus/regional/reg_097",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "regional",
+  "genre": "news",
+  "speed_layer": "medium",
+  "region": "Санкт-Петербург",
+  "audience_type": null,
+  "topics": [
+    "regional_development",
+    "everyday_life"
+  ],
+  "selection_reason": "Материал из раздела «Региональные медиа», содержит концепт «КОМФОРТ», фрейм «городское развитие» и модель действия «благоустройство», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "КОМФОРТ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "городское развитие",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "город как организм",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "развитие / застой",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "власть / горожанин",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "благоустройство",
+    "norm_model": "локальная политика должна улучшать качество жизни",
+    "threat_model": "инфраструктурное отставание",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "region",
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

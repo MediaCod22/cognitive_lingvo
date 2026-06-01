@@ -1,0 +1,81 @@
+{
+  "text_id": "popsci_100",
+  "title": "Что известно о климатических и экологических изменений для транспортной системы: научно-популярный разбор 2023-100",
+  "author": null,
+  "source": "ТАСС",
+  "source_type": "agency",
+  "publication_date": "2023-01-01",
+  "year": 2023,
+  "url": "https://tass.ru/corpus/popular_science/popsci_100",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "popular_science",
+  "genre": "popular_science_article",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "education_and_science",
+    "future_models"
+  ],
+  "selection_reason": "Материал из раздела «Научно-популярные и технологические тексты», содержит концепт «СРЕДА», фрейм «планетарная взаимосвязь» и модель действия «адаптация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СРЕДА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "планетарная взаимосвязь",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "планета как система",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "бережность / истощение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "человек / среда",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "адаптация",
+    "norm_model": "знание о среде должно вести к ответственному действию",
+    "threat_model": "экологическая уязвимость",
+    "temporality": [
+      "future_projection",
+      "crisis_time"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "ontology",
+      "ethics"
+    ],
+    "uncertainty_notes": null
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "text_id": "popsci_037",
+  "title": "Что известно о искусственного интеллекта для экологической модернизации: научно-популярный разбор 2024-037",
+  "author": null,
+  "source": "Вокруг света",
+  "source_type": "science_media",
+  "publication_date": "2024-04-08",
+  "year": 2024,
+  "url": "https://www.vokrugsveta.ru/corpus/popular_science/popsci_037",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "popular_science",
+  "genre": "explainer",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "future_models"
+  ],
+  "selection_reason": "Материал из раздела «Научно-популярные и технологические тексты», содержит концепт «ПРОРЫВ», фрейм «научное объяснение технологии» и модель действия «популяризация знания», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПРОРЫВ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "научное объяснение технологии",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "алгоритм как помощник",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "инновация / риск",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "ученый / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "популяризация знания",
+    "norm_model": "новая технология должна быть объяснена обществу",
+    "threat_model": "непрозрачность алгоритмов",
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology",
+      "knowledge"
+    ],
+    "uncertainty_notes": null
+  }
+}

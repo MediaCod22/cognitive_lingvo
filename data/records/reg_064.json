@@ -1,0 +1,87 @@
+{
+  "text_id": "reg_064",
+  "title": "Челябинск: культурной памяти региона и экологической модернизации в региональной повестке 2023-064",
+  "author": null,
+  "source": "Российская газета",
+  "source_type": "official_source",
+  "publication_date": "2023-01-01",
+  "year": 2023,
+  "url": "https://rg.ru/corpus/regional/reg_064",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "regional",
+  "genre": "news",
+  "speed_layer": "medium",
+  "region": "Челябинск",
+  "audience_type": null,
+  "topics": [
+    "regional_development",
+    "culture_and_memory"
+  ],
+  "selection_reason": "Материал из раздела «Региональные медиа», содержит концепт «МЕСТО», фрейм «локальная идентичность» и модель действия «сохранение памяти», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "МЕСТО",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "локальная идентичность",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "память как карта",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "самобытность / обезличивание",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "сообщество / наследие",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "сохранение памяти",
+    "norm_model": "локальная история должна быть частью общей культурной картины",
+    "threat_model": "утрата идентичности",
+    "temporality": [
+      "past_reference",
+      "continuity"
+    ],
+    "cultural_references": [
+      {
+        "value": "локальная культурная память",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [],
+    "world_model_dimension": [
+      "region",
+      "memory"
+    ],
+    "uncertainty_notes": null
+  }
+}

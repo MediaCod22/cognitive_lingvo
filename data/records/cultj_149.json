@@ -1,0 +1,87 @@
+{
+  "text_id": "cultj_149",
+  "title": "Городской памяти и здравоохранения: культурный обзор 2024-149",
+  "author": null,
+  "source": "Российская газета",
+  "source_type": "official_source",
+  "publication_date": "2024-04-08",
+  "year": 2024,
+  "url": "https://rg.ru/corpus/cultural_journalism/cultj_149",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "cultural_journalism",
+  "genre": "essay",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "culture_and_memory",
+    "regional_development"
+  ],
+  "selection_reason": "Материал из раздела «Культурная журналистика», содержит концепт «ПАМЯТЬ», фрейм «культура места» и модель действия «переосмысление», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПАМЯТЬ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "культура места",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "город как текст",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "наследие / забвение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "куратор / зритель",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "переосмысление",
+    "norm_model": "культура должна сохранять связь времен",
+    "threat_model": "утрата культурного слоя",
+    "temporality": [
+      "past_reference",
+      "continuity"
+    ],
+    "cultural_references": [
+      {
+        "value": "локальная память",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [],
+    "world_model_dimension": [
+      "culture",
+      "memory"
+    ],
+    "uncertainty_notes": null
+  }
+}

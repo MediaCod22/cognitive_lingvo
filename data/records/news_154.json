@@ -1,0 +1,80 @@
+{
+  "text_id": "news_154",
+  "title": "Российская газета: новая повестка о новых мерах правового регулирования в контексте музейной практики, 2025",
+  "author": null,
+  "source": "Российская газета",
+  "source_type": "official_source",
+  "publication_date": "2025-07-15",
+  "year": 2025,
+  "url": "https://rg.ru/corpus/news/news_154",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "law_and_institutions",
+    "state_and_society"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «БЕЗОПАСНОСТЬ», фрейм «правовое регулирование» и модель действия «регулирование», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "БЕЗОПАСНОСТЬ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "правовое регулирование",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "закон как рамка",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "порядок / хаос",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "парламент / гражданин",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "регулирование",
+    "norm_model": "институты должны снижать риски и сохранять предсказуемость",
+    "threat_model": "правовая неопределенность",
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "state",
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

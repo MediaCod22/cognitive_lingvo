@@ -1,0 +1,93 @@
+{
+  "text_id": "canon_038",
+  "title": "Пушкинского канона в современных медиа: канонический сюжет 2025-038",
+  "author": null,
+  "source": "Литературная газета",
+  "source_type": "cultural_media",
+  "publication_date": "2025-07-15",
+  "year": 2025,
+  "url": "https://lgz.ru/corpus/canonical_layer/canon_038",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "canonical_layer",
+  "genre": "essay",
+  "speed_layer": "deep",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "literary_canon",
+    "state_and_society"
+  ],
+  "selection_reason": "Материал из раздела «Литературный канон», содержит концепт «СВОБОДА», фрейм «личность и власть» и модель действия «актуализация канона», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "СВОБОДА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "личность и власть",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "поэт как голос эпохи",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "свобода / несвобода",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "поэт / государство",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "актуализация канона",
+    "norm_model": "канон помогает обсуждать свободу и ответственность",
+    "threat_model": "обеднение культурного языка",
+    "temporality": [
+      "past_reference",
+      "continuity"
+    ],
+    "cultural_references": [
+      {
+        "value": "литературный канон",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [
+      {
+        "value": "А.С. Пушкин",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "world_model_dimension": [
+      "culture",
+      "memory"
+    ],
+    "uncertainty_notes": null
+  }
+}

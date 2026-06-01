@@ -1,0 +1,80 @@
+{
+  "text_id": "analyt_050",
+  "title": "Как социальная безопасность меняет модель публичной дискуссии: аналитический разбор 2025-050",
+  "author": null,
+  "source": "Парламентская газета",
+  "source_type": "official_source",
+  "publication_date": "2025-07-15",
+  "year": 2025,
+  "url": "https://www.pnp.ru/corpus/analytics/analyt_050",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "analytics",
+  "genre": "analysis",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "state_and_society",
+    "health_and_security"
+  ],
+  "selection_reason": "Материал из раздела «Аналитика», содержит концепт «ДОВЕРИЕ», фрейм «институциональная устойчивость» и модель действия «согласование интересов», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ДОВЕРИЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "институциональная устойчивость",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "общество как договор",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "доверие / отчуждение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "институт / гражданин",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "согласование интересов",
+    "norm_model": "публичные решения должны быть объяснимыми",
+    "threat_model": "социальная фрагментация",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "society",
+      "ethics"
+    ],
+    "uncertainty_notes": null
+  }
+}

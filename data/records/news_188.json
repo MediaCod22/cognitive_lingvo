@@ -1,0 +1,80 @@
+{
+  "text_id": "news_188",
+  "title": "Газета.ru: новая повестка о изменениях на рынке труда в контексте экологической модернизации, 2023",
+  "author": null,
+  "source": "Газета.ru",
+  "source_type": "federal_media",
+  "publication_date": "2023-01-01",
+  "year": 2023,
+  "url": "https://www.gazeta.ru/corpus/news/news_188",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "economy_and_labor",
+    "technologies"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «ТРУД», фрейм «адаптация занятости» и модель действия «переобучение», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ТРУД",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "адаптация занятости",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "рынок как механизм настройки",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "стабильность / неопределенность",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "работник / работодатель",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "переобучение",
+    "norm_model": "экономическая адаптация должна учитывать человеческий капитал",
+    "threat_model": "профессиональное вытеснение",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "economy",
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

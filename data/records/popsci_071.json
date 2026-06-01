@@ -1,0 +1,80 @@
+{
+  "text_id": "popsci_071",
+  "title": "Что известно о биомедицины для безопасности данных: научно-популярный разбор 2026-071",
+  "author": null,
+  "source": "N+1",
+  "source_type": "science_media",
+  "publication_date": "2026-04-22",
+  "year": 2026,
+  "url": "https://nplus1.ru/corpus/popular_science/popsci_071",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "popular_science",
+  "genre": "explainer",
+  "speed_layer": "long",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "health_and_security",
+    "education_and_science"
+  ],
+  "selection_reason": "Материал из раздела «Научно-популярные и технологические тексты», содержит концепт «ЗДОРОВЬЕ», фрейм «наука о жизни» и модель действия «научное объяснение», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ЗДОРОВЬЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "наука о жизни",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "организм как система",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "лечение / уязвимость",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "врач / пациент",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "научное объяснение",
+    "norm_model": "медицинское знание должно быть проверяемым",
+    "threat_model": "биологический риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "knowledge",
+      "security"
+    ],
+    "uncertainty_notes": null
+  }
+}

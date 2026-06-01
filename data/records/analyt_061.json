@@ -1,0 +1,80 @@
+{
+  "text_id": "analyt_061",
+  "title": "Как цифровая трансформация меняет модель локальной памяти: аналитический разбор 2024-061",
+  "author": null,
+  "source": "РБК Тренды",
+  "source_type": "business_media",
+  "publication_date": "2024-04-08",
+  "year": 2024,
+  "url": "https://trends.rbc.ru/corpus/analytics/analyt_061",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "analytics",
+  "genre": "analysis",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "technologies",
+    "economy_and_labor"
+  ],
+  "selection_reason": "Материал из раздела «Аналитика», содержит концепт «ДАННЫЕ», фрейм «конкуренция за ресурсы» и модель действия «управление ресурсами», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ДАННЫЕ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "конкуренция за ресурсы",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "данные как нефть",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "доступность / монополизация",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "корпорация / общество",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "управление ресурсами",
+    "norm_model": "технологическое развитие требует общественного контроля",
+    "threat_model": "монополизация данных",
+    "temporality": [
+      "future_projection"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "technology",
+      "economy"
+    ],
+    "uncertainty_notes": null
+  }
+}

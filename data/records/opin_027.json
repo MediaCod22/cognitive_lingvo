@@ -1,0 +1,87 @@
+{
+  "text_id": "opin_027",
+  "title": "Памяти и исторической преемственности в повестке цифровых платформ: авторская колонка 2026-027",
+  "author": null,
+  "source": "Сноб",
+  "source_type": "cultural_media",
+  "publication_date": "2026-02-22",
+  "year": 2026,
+  "url": "https://snob.ru/corpus/opinion/opin_027",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "opinion",
+  "genre": "essay",
+  "speed_layer": "medium",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "culture_and_memory",
+    "literary_canon"
+  ],
+  "selection_reason": "Материал из раздела «Колонки и публицистика», содержит концепт «ПАМЯТЬ», фрейм «спор о прошлом» и модель действия «осмысление», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ПАМЯТЬ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "спор о прошлом",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "прошлое как зеркало",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "память / забвение",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "поколение / история",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "осмысление",
+    "norm_model": "память должна помогать нравственному выбору",
+    "threat_model": "обрыв традиции",
+    "temporality": [
+      "past_reference",
+      "continuity"
+    ],
+    "cultural_references": [
+      {
+        "value": "историческая память",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [],
+    "world_model_dimension": [
+      "memory",
+      "culture"
+    ],
+    "uncertainty_notes": null
+  }
+}

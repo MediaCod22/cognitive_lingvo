@@ -1,0 +1,80 @@
+{
+  "text_id": "news_125",
+  "title": "Интерфакс: новая повестка о мерах в сфере здоровья и безопасности в контексте правового регулирования, 2024",
+  "author": null,
+  "source": "Интерфакс",
+  "source_type": "agency",
+  "publication_date": "2024-04-08",
+  "year": 2024,
+  "url": "https://www.interfax.ru/corpus/news/news_125",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "news",
+  "genre": "news",
+  "speed_layer": "fast",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "health_and_security",
+    "state_and_society"
+  ],
+  "selection_reason": "Материал из раздела «Новости», содержит концепт «ЗАЩИТА», фрейм «общественная безопасность» и модель действия «профилактика», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ЗАЩИТА",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "общественная безопасность",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "система как щит",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "защита / уязвимость",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "институт / гражданин",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "профилактика",
+    "norm_model": "безопасность должна сочетаться с доверием к институтам",
+    "threat_model": "социальный риск",
+    "temporality": [
+      "present_event"
+    ],
+    "cultural_references": [],
+    "literary_references": [],
+    "world_model_dimension": [
+      "security",
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "text_id": "canon_044",
+  "title": "Советского культурного канона в современных медиа: канонический сюжет 2023-044",
+  "author": null,
+  "source": "ФЭБ",
+  "source_type": "canonical_source",
+  "publication_date": "2023-01-01",
+  "year": 2023,
+  "url": "https://feb-web.ru/corpus/canonical_layer/canon_044",
+  "access_date": "2026-06-01",
+  "archive_link": null,
+  "segment": "canonical_layer",
+  "genre": "essay",
+  "speed_layer": "deep",
+  "region": null,
+  "audience_type": null,
+  "topics": [
+    "literary_canon",
+    "culture_and_memory"
+  ],
+  "selection_reason": "Материал из раздела «Литературный канон», содержит концепт «ГЕРОЙ», фрейм «коллективное действие» и модель действия «переинтерпретация», значимые для реконструкции медиакультурной модели мира.",
+  "excerpt": null,
+  "summary": null,
+  "legal": {
+    "license_status": "metadata_only",
+    "full_text_stored": false,
+    "notes": "В репозитории хранится карточка, ссылка, метаданные и разметка. Полный текст не размещается."
+  },
+  "annotation_status": "assisted_draft",
+  "annotation": {
+    "concepts": [
+      {
+        "value": "ГЕРОЙ",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "frames": [
+      {
+        "value": "коллективное действие",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "metaphors": [
+      {
+        "value": "герой как образец",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "value_oppositions": [
+      {
+        "value": "служение / индивидуализм",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "subject_roles": [
+      {
+        "value": "герой / коллектив",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "action_model": "переинтерпретация",
+    "norm_model": "канонический сюжет требует исторического контекста",
+    "threat_model": "упрощение прошлого",
+    "temporality": [
+      "past_reference",
+      "continuity"
+    ],
+    "cultural_references": [
+      {
+        "value": "советский культурный канон",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "literary_references": [
+      {
+        "value": "советская литература",
+        "rank": "primary",
+        "evidence": null
+      }
+    ],
+    "world_model_dimension": [
+      "memory",
+      "society"
+    ],
+    "uncertainty_notes": null
+  }
+}
